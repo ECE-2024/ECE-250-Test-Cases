@@ -54,6 +54,8 @@ Once the project is open, click on the play button at the top of your screen. Th
 ## Connect to the VPN
 Connect to the Waterloo VPN if you are not already connected.
 
+![alt text](https://cdn.discordapp.com/attachments/784836147280216078/799681906786435112/unknown.png)
+
 ## Connect to waterloo server
 Enter the required information to connect to the server. The 'Host name' can either be 'eceubuntu1.uwaterloo.ca' or 'eceubuntu2.uwaterloo.ca'. The 'Port' is '22'. The 'User name' is your wat id (example: d22baker). The 'Authentication type' is 'Password'. The 'Password' is your university password. When ready, click 'Connect'
 
