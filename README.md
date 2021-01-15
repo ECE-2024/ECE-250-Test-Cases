@@ -13,6 +13,8 @@ You must be able to connect to the University of Waterloo VPN.
 ## Install Visual Studio for Windows
 Visit https://visualstudio.microsoft.com/downloads/ to download Visual Studio. You can select the Community version (free for everyone) or Enterprise version (free for students). The Professional version can also work, but is paid.
 
+![alt text](https://discord.com/channels/784836147280216075/784836147280216078/799682731671552042)
+
 ## Run the Visual Studio Installer Executable or Program
 Run the Visual Studio Installer executable in administrative mode. If you have already run the executable before, you can instead run the Visual Studio Installer program in administrative mode.
 
