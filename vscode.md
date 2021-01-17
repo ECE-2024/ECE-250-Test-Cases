@@ -9,11 +9,10 @@ This document covers how to run C++ code remotely on the ECE Ubuntu Servers
 1. Download the start.sh and setup.sh scripts from the ECE-2024/ECE-250-Test-Case repository
 2. Move the start.sh and setup.sh scripts into the same directory as your .cpp and .h files
 3. Run the command './setup.sh' in your terminal
-4. When prompted to enter the file name to save the key to, press enter
-5. When prompted to enter a passphrase, press enter
-6. When prompted to enter a passphrase again, press enter
-7. When asked if you are sure you want to connect to the server, enter y
-7. When prompted to log into the ece ubuntu server, enter your waterloo password
+4. If asked if you are sure you want to connect to the server, enter y
+5. When prompted to log into the ece ubuntu server, enter your waterloo password
+Note: If permission to run setup.sh is denied, run the command 'chmod +x setup.sh' 
 
 ## Running your code remotely
 1. Run the command './start.sh' in your terminal
+Note: If permission to run setup.sh is denied, run the command 'chmod +x start.sh' 
