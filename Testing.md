@@ -127,12 +127,17 @@ If you are using your own server or WSL, I believe you can simply install valgri
 Valgrind is a useful utility that tells us if we have memory leaks in our program or not.
 
 To run it, we will use the following command;
+
 `valgrind --leak-check=full ./{OUTFILE LOCATION} < {TEST FILE YOU WANT TO USE}`
+
 e.g;
+
 `valgrind --leak-check=full ./ECE250P0.out < test1.in`
 
 Upon running this command, you will see some output that looks like this;
+
 ![enter image description here](https://i.imgur.com/b4fkIIv.png)
+
 The first box will show you errors in the way that you perform operations in your C++ code. It may tell you that you're accessing uninitialized values, or you're trying to read invalid data! This is important as it may give you hints as to what's going wrong in your code!
 
 The second section is the heap summary, it tells you how much memory was still allocated at the exit of the program (you want to have 0). If near the bottom it says `All heap blocks were freed -- no leaks are possible`, you have no memory leaks! Otherwise, it will show you exactly how much memory was leaked in the `in use at exit: X bytes in Y blocks` section. 
