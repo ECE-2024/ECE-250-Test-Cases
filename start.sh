@@ -47,6 +47,7 @@ scp -r ../$PROJ_DIR $WATID@eceubuntu1.uwaterloo.ca:/home/$WATID/projects
 echo "PROJECT COPIED TO:"
 echo "/home/$WATID/projects/$PROJ_DIR"
 
-ssh $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "g++ /home/$WATID/projects/$PROJ_DIR/*.cpp -o a.out;echo 'running program...';./a.out"
-
+ssh $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "
+if g++ /home/$WATID/projects/$PROJ_DIR/*.cpp -o a.out; then SUCCESS=1; else SUCCESS=0; fi; 
+if [ "$SUCCESS" == "1" ]; then echo 'running program...';./a.out; else echo fail; fi;"
 
