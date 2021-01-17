@@ -1,7 +1,7 @@
 #!/bin/bash
-WATID=d22baker
-SERVER_NUM=1
-PROJ_DIR=TEST
+WATID=YOUR_WATID
+SERVER_NUM=EITHER_1_OR_2
+PROJ_DIR=CURRENT_DIRECTOR_NAME
 
 ssh $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "mkdir /home/$WATID/projects;mkdir /home/$WATID/projects/$PROJ_DIR;exit"
 scp -r ../$PROJ_DIR $WATID@eceubuntu1.uwaterloo.ca:/home/$WATID/projects
