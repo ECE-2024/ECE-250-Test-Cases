@@ -41,13 +41,12 @@ if [ -z "$3" ]
 		PROJ_DIR=$3
 fi
 
-ssh $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "mkdir /home/$WATID/projects;mkdir /home/$WATID/projects/$PROJ_DIR;exit"
-scp -r ../$PROJ_DIR $WATID@eceubuntu1.uwaterloo.ca:/home/$WATID/projects
+ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "mkdir /home/$WATID/projects;mkdir /home/$WATID/projects/$PROJ_DIR;exit"
+scp -i ece_key -r ../$PROJ_DIR $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca:/home/$WATID/projects
 
 echo "PROJECT COPIED TO:"
 echo "/home/$WATID/projects/$PROJ_DIR"
 
-ssh $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "
-if g++ /home/$WATID/projects/$PROJ_DIR/*.cpp -o a.out; then SUCCESS=1; else SUCCESS=0; fi; 
-if [ "$SUCCESS" == "1" ]; then echo 'running program...';./a.out; else echo fail; fi;"
+ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "
+g++ /home/$WATID/projects/$PROJ_DIR/*.cpp -o a.out; echo 'running program...';./a.out; exit;"
 
