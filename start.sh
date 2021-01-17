@@ -43,10 +43,10 @@ fi
 
 ssh $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "mkdir /home/$WATID/projects;mkdir /home/$WATID/projects/$PROJ_DIR;exit"
 scp -r ../$PROJ_DIR $WATID@eceubuntu1.uwaterloo.ca:/home/$WATID/projects
-ssh $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "g++ /home/$WATID/projects/$PROJ_DIR/*.cpp -o a.out;echo 'running program...';./a.out"
 
 echo "PROJECT COPIED TO:"
 echo "/home/$WATID/projects/$PROJ_DIR"
-echo "SSH INTO THE SERVER:"
-echo "ssh -X $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca"
+
+ssh $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "g++ /home/$WATID/projects/$PROJ_DIR/*.cpp -o a.out;echo 'running program...';./a.out"
+
 
