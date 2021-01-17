@@ -1,4 +1,4 @@
-# Running C++ code remotely on ECE Ubuntu Servers without Visual Studio
+# Running C++ code remotely on ECE Ubuntu Servers through the terminal
 This document covers how to run C++ code remotely on the ECE Ubuntu Servers
 
 ## Requirements
