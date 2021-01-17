@@ -16,14 +16,19 @@ To initiate an SSH connection, you must first be logged into the waterloo VPN
 After you've confirmed you're logged into the VPN, you can open your native Command Prompt, Terminal, etc, and type the followign command;
 
 `ssh {WATID}@eceubuntu{the server number you want to use, 1 or 2}.uwaterloo.ca`
+
 e.g;
+
 `ssh k5kumara@eceubuntu1.uwaterloo.ca`
+
 After running this command, you'll be prompted with a message that says;
+
 ```
 The authenticity of host 'eceubuntu1.uwaterloo.ca (129.97.56.12)' can't be established.
 ECDSA key fingerprint is SHA256:u0RB5xhytXu1QLWptM+p9UeZXTQZ7AawIC0hbMGZPYM.
 Are you sure you want to continue connecting (yes/no)?
 ```
+
 To this prompt, type "yes".
 
 Afterwards, you will be asked to enter your password, this should be your WatIAM(LEARN) password. It might also prompt you for 2FA information, which will be pretty straightforward from there.
@@ -36,9 +41,11 @@ Sometimes (especially if you haven't used the VS tutorial Dre published), you wi
 To do this, we will use a program called FileZilla, you can download it at https://filezilla-project.org/download.php?platform=win64
 
 After downloading and installing the program, open it and click `File -> Site Manager`. It should open up an interface as follows;
+
 ![enter image description here](https://i.imgur.com/CkS1rWg.png)
 
 In this interface, we will click `New Site`, and it should open up a blank section for you;
+
 ![enter image description here](https://i.imgur.com/LdzGGc7.png)
 
 In the `Host` field, enter `eceubuntu{the server number you want to use, 1 or 2}.uwaterloo.ca`. For example, `eceubuntu1.uwaterloo.ca`
@@ -50,12 +57,15 @@ For the `User`, type in your WatID. For example, `k5kumara`
 For the `Password`, type in your WatIAM(Learn) password.
 
 It should look similar to this;
+
 ![enter image description here](https://i.imgur.com/d4sUbD1.png)
 
 Afterwards, click `Connect`
 
 After connecting, you will be presented with a screen that looks like the following;
+
 ![enter image description here](https://i.imgur.com/NMmBThA.png)
+
 The red box on the left represents your LOCAL COMPUTER and the red box on the right represents the REMOTE COMPUTER (which in this case is ECE Ubuntu!).
 
 You can navigate the folder structure just the same as you would when using File Explorer on windows, and you can drag and drop files into the right side to upload them into that directory. That's it! It's that simple!
@@ -68,6 +78,7 @@ If you're using Visual Studio, you should have already followed the tutorial we 
 When using visual studio's remote setup, your files will be automatically uploaded and synced with ECE Ubuntu, or whatever server you chose to set up the remote environment on. You will not need to manually upload any of your files! Your files will be uploaded to the server to the directory `/home/{YOUR WATID}/projects/{YOUR VS PROJECT NAME}/.` You can find the compiled binaries (your final C++ program) at `/home/{YOUR WATID}/projects/{YOUR VS PROJECT NAME}/bin/x64/Debug`, your final C++ program will usually have the extension `.out`.
 
 For example, my final C++ program is located at;
+
 `/home/k5kumara/projects/ECE250P0/bin/x64/debug/ECE250P0.out`
 
 **If using other IDES**
