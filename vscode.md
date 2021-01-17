@@ -12,6 +12,7 @@ This document covers how to run C++ code remotely on the ECE Ubuntu Servers
 4. When prompted to enter the file name to save the key to, press enter
 5. When prompted to enter a passphrase, press enter
 6. When prompted to enter a passphrase again, press enter
+7. When asked if you are sure you want to connect to the server, enter y
 7. When prompted to log into the ece ubuntu server, enter your waterloo password
 
 ## Running your code remotely
