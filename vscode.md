@@ -12,9 +12,9 @@ This document covers how to run C++ code remotely on the ECE Ubuntu Servers
 4. If asked if you are sure you want to connect to the server, enter y
 5. When prompted to log into the ece ubuntu server, enter your waterloo password
 
-If permission to run setup.sh is denied, run the command 'chmod +x setup.sh' 
+If permission to run setup.sh is denied, run the command 'chmod +x setup.sh' in your terminal
 
 ## Running your code remotely
 1. Run the command './start.sh' in your terminal
 
-If permission to run start.sh is denied, run the command 'chmod +x start.sh' 
+If permission to run start.sh is denied, run the command 'chmod +x start.sh' in your terminal
