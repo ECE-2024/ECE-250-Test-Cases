@@ -17,4 +17,4 @@ If permission to run setup.sh is denied, run the command 'chmod +x setup.sh'
 ## Running your code remotely
 1. Run the command './start.sh' in your terminal
 
-If permission to run setup.sh is denied, run the command 'chmod +x start.sh' 
+If permission to run start.sh is denied, run the command 'chmod +x start.sh' 
