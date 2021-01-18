@@ -48,5 +48,4 @@ echo "PROJECT COPIED TO:"
 echo "/home/$WATID/projects/$PROJ_DIR"
 
 ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "
-g++ /home/$WATID/projects/$PROJ_DIR/*.cpp -o a.out; echo 'running program...';./a.out; exit;"
-
+cd /home/$WATID/projects/$PROJ_DIR/; g++ *.cpp -o a.out; echo 'running program...'; ./a.out; exit;"
