@@ -48,5 +48,54 @@ echo "PROJECT COPIED TO:"
 echo "/home/$WATID/projects/$PROJ_DIR"
 
 ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "
-g++ /home/$WATID/projects/$PROJ_DIR/*.cpp -o a.out; echo 'running program...';./a.out; exit;"
+#!/bin/bash
 
+help(){
+	echo
+	echo "FORMATTING:"
+	echo "./setup.sh <WATID> <SERVER NUMBER (1 or 2)> <DIRECTORY NAME>"
+	echo "DIRECTORY NAME IS WHERE YOUR FILES WILL BE COPIED TO ON THE ECE SERVERS. THE PATH WILL BE:"	
+	echo "/home/<WATID>/projects/<DIRECTORY NAME>"
+	echo "EXITING..."
+	echo
+	exit -1	
+}
+
+if [ -z "$1" ]
+	then
+		echo "NO WATID SPECIFIED (ie. k5kumara)."
+		help
+	else
+		WATID=$1
+fi
+
+if [ -z "$2" ]
+	then
+		echo "NO SERVER NUMBER SPECIFIED (ie. 1 or 2)."
+		help
+	else
+		if [ "$2" == "1" ] || [ "$2" == "2" ]
+			then
+				SERVER_NUM=$2
+			else
+				echo SERVER NUMBER MUST BE 1 OR 2
+				help
+		fi
+fi
+
+if [ -z "$3" ]
+	then
+		echo "NO DIRECTORY NAME SPECIFIED (ie. "ECE250-p1")."
+		help
+	else
+		PROJ_DIR=$3
+fi
+
+ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "mkdir /home/$WATID/projects;mkdir /home/$WATID/projects/$PROJ_DIR;exit"
+scp -i ece_key -r ../$PROJ_DIR $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca:/home/$WATID/projects
+
+echo "PROJECT COPIED TO:"
+echo "/home/$WATID/projects/$PROJ_DIR"
+
+ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "
+cd /home/$WATID/projects/$PROJ_DIR/; g++ *.cpp -o a.out; echo 'running program...'; ./a.out; exit;"
