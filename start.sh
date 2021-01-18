@@ -42,8 +42,13 @@ if [ -z "$3" ]
 fi
 
 ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "mkdir /home/$WATID/projects;mkdir /home/$WATID/projects/$PROJ_DIR;exit"
-scp -i ece_key -r ../$PROJ_DIR $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca:/home/$WATID/projects
-
+destination=$WATID@eceubuntu$SERVER_NUM.uwaterloo.ca:/home/$WATID/projects/$PROJ_DIR
+scp -i ece_key *.cpp $destination
+scp -i ece_key *.h $destination
+scp -i ece_key *.hpp $destination
+scp -i ece_key *.in $destination
+scp -i ece_key *.out $destination
+scp -i ece_key makefile $destination
 echo "PROJECT COPIED TO:"
 echo "/home/$WATID/projects/$PROJ_DIR"
 
