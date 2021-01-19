@@ -4,6 +4,8 @@ help(){
 	echo
 	echo "FORMATTING:"
 	echo "./setup.sh <WATID> <SERVER NUMBER (1 or 2)>"	
+	echo "EXAMPLE:"
+	echo "./setup.sh jsmith 1"
 	echo "EXITING..."
 	echo
 	exit -1	
