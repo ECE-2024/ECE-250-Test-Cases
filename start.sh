@@ -6,6 +6,8 @@ help(){
 	echo "./start.sh <WATID> <SERVER NUMBER (1 or 2)>"
 	echo "YOUR CURRENT FOLDER NAME IS WHERE YOUR FILES WILL BE COPIED TO ON THE ECE SERVERS. THE PATH WILL BE:"	
 	echo "/home/<WATID>/projects/<CURRENT_FOLDER_NAME>"
+	echo "EXAMPLE:"
+	echo "./start.sh jsmith 1"
 	echo "EXITING..."
 	echo
 	exit -1	
