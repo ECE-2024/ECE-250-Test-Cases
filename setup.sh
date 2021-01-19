@@ -5,7 +5,7 @@ help(){
 	echo "FORMATTING:"
 	echo "./setup.sh <WATID> <SERVER NUMBER (1 or 2)>"	
 	echo "EXAMPLE:"
-	echo "./setup.sh jsmith 1"
+	echo "./setup.sh j1smith 1"
 	echo "EXITING..."
 	echo
 	exit -1	
@@ -13,7 +13,7 @@ help(){
 
 if [ -z "$1" ]
 	then
-		echo "NO WATID SPECIFIED (ie. k5kumara)."
+		echo "NO WATID SPECIFIED (ie. j1smith)."
 		help
 	else
 		WATID=$1
