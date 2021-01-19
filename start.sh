@@ -3,9 +3,9 @@
 help(){
 	echo
 	echo "FORMATTING:"
-	echo "./setup.sh <WATID> <SERVER NUMBER (1 or 2)> <DIRECTORY NAME>"
-	echo "DIRECTORY NAME IS WHERE YOUR FILES WILL BE COPIED TO ON THE ECE SERVERS. THE PATH WILL BE:"	
-	echo "/home/<WATID>/projects/<DIRECTORY NAME>"
+	echo "./start.sh <WATID> <SERVER NUMBER (1 or 2)>"
+	echo "YOUR CURRENT FOLDER NAME IS WHERE YOUR FILES WILL BE COPIED TO ON THE ECE SERVERS. THE PATH WILL BE:"	
+	echo "/home/<WATID>/projects/<CURRENT_FOLDER_NAME>"
 	echo "EXITING..."
 	echo
 	exit -1	
@@ -33,13 +33,7 @@ if [ -z "$2" ]
 		fi
 fi
 
-if [ -z "$3" ]
-	then
-		echo "NO DIRECTORY NAME SPECIFIED (ie. "ECE250-p1")."
-		help
-	else
-		PROJ_DIR=$3
-fi
+PROJ_DIR=${PWD##*/}
 
 ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca  "mkdir /home/$WATID/projects;mkdir /home/$WATID/projects/$PROJ_DIR;exit"
 destination=$WATID@eceubuntu$SERVER_NUM.uwaterloo.ca:/home/$WATID/projects/$PROJ_DIR
