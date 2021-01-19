@@ -15,6 +15,6 @@ This document covers how to run C++ code remotely on the ECE Ubuntu Servers
 If permission to run setup.sh is denied, run the command 'chmod +x setup.sh' in your terminal
 
 ## Running your code remotely
-1. Run the command `./start.sh YOUR_WATID SERVER_NUM CURENT_FOLDER` in your terminal, replacing the capital words with your own values, to upload, compile, and run your code on the server
+1. Run the command `./start.sh YOUR_WATID SERVER_NUM` in your terminal, replacing the capital words with your own values, to upload, compile, and run your code on the server
 
 If permission to run start.sh is denied, run the command 'chmod +x start.sh' in your terminal
