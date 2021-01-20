@@ -57,4 +57,16 @@ Enter the required information to connect to the server. The 'Host name' can eit
 
 ![alt text](https://cdn.discordapp.com/attachments/784836147280216078/799497403131625532/unknown.png)
 
-Your code should now run remotely in debug mode on a ece ubuntu server whenever you press the play button. All console input and output will go to the 'Linux Console Window' (button left or right). Try taking advantage of debugging features like setting break points, stepping over lines, moving back to a previous line, stepping into functions, etc.
+Your code should now run remotely in debug mode on a ece ubuntu server whenever you press the play button. All console input and output will go to the 'Linux Console Window' (Can be viewed by going to the Debug > Linux Console). Try taking advantage of debugging features like setting break points, stepping over lines, moving back to a previous line, stepping into functions, etc.
+
+## Troubleshooting
+If Visual Studio has put red squiggly lines under the `#include ...` directive, put `using namespace std;` at the top of your file
+### Example
+`
+using namespace std;
+#include <iostream>
+
+int main() {
+  return 0;
+}
+`

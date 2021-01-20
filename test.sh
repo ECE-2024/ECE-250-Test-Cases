@@ -3,11 +3,13 @@
 help(){
 	echo
 	echo "FORMATTING:"
-	echo "./start.sh <WATID> <SERVER NUMBER (1 or 2)> <EXECUTABLE NAME (optional)>"
+	echo "./test.sh <WATID> <SERVER NUMBER (1 or 2)> <TEST NUMBER (optional, must be 2 digits)>"
+	echo "YOUR CURRENT FOLDER NAME IS WHERE YOUR FILES WILL BE COPIED TO ON THE ECE SERVERS. THE PATH WILL BE:"	
+	echo "/home/<WATID>/projects/<CURRENT_FOLDER_NAME>"
 	echo "EXAMPLE:"
-	echo "./start.sh j1smith 1"
-	echo "EXAMPLE WITH MAKEFILE EXECUTABLE:"
-	echo "./start.sh j1smith mainfile "
+	echo "./test.sh j1smith 1"
+	echo "EXAMPLE WITH TEST NUMBER:"
+	echo "./test.sh j1smith 1 01"
 	echo "EXITING..."
 	echo
 	exit -1	
@@ -37,23 +39,13 @@ fi
 
 if [ -z "$3" ]
 	then
-		MAKE_CMD="
-		echo 'CLEANING...'	
-		rm a.out;
-		echo 'COMPILING...';
-		g++ *.cpp -o a.out;
-		echo 'RUNNING...';
-		./a.out;
-		"
+		TEST_CMD=""
+		for test in $(ls | grep "test.*.in" | tr -d .in)
+			do
+				TEST_CMD+="./a.out < $test.in | diff $test.out -;"
+			done
 	else
-		MAKE_CMD="
-		echo 'CLEANING...';
-		rm $3;
-		echo 'COMPILING...';
-		make;
-		echo 'RUNNING...';
-		./$3;
-		"
+		TEST_CMD="./a.out < test$3.in | diff test$3.out -;"
 fi
 
 PROJ_DIR=${PWD##*/}
@@ -77,6 +69,11 @@ echo "FILES COPIED TO /home/$WATID/projects/$PROJ_DIR"
 
 ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca "
 cd /home/$WATID/projects/$PROJ_DIR;
-$MAKE_CMD
+echo 'CLEANING...';
+rm a.out;
+echo 'COMPILING...';
+g++ *.cpp -o a.out;
+echo 'TESTING...';
+$TEST_CMD
 exit;
 "
