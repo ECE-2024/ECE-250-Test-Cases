@@ -42,10 +42,14 @@ if [ -z "$3" ]
 		TEST_CMD=""
 		for test in $(ls | grep "test.*.in" | tr -d .in)
 			do
+				TEST_CMD+="echo 'TEST: $test';"
 				TEST_CMD+="./a.out < $test.in | diff $test.out -;"
+				TEST_CMD+="echo;"
 			done
 	else
-		TEST_CMD="./a.out < test$3.in | diff test$3.out -;"
+		TEST_CMD+="echo 'TEST: test$3';"
+		TEST_CMD+="./a.out < test$3.in | diff test$3.out -;"
+		TEST_CMD+="echo;"
 fi
 
 PROJ_DIR=${PWD##*/}
