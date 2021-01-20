@@ -8,7 +8,7 @@ To add test cases for a project, you will need to create a new branch and add yo
 To remotely debug your code on the ECE Ubuntu servers, follow this guide https://github.com/ECE-2024/ECE-250-Test-Cases/blob/main/visual_studio_setup_and_run.md
 
 # Remote running and testing via terminal
-To remotely run your code on the ECE Ubuntu servers, follow this guide https://github.com/ECE-2024/ECE-250-Test-Cases/blob/main/terminal_setup_and_run.md
+To remotely run and test your code on the ECE Ubuntu servers, follow this guide https://github.com/ECE-2024/ECE-250-Test-Cases/blob/main/terminal_setup_and_run.md
 
 # Remote running and testing via PuTTY and FileZilla 
-To test your code with the test cases, follow this guide https://github.com/ECE-2024/ECE-250-Test-Cases/blob/main/Testing.md
+To remotely run and test your code on the ECE Ubuntu servers, follow this guide https://github.com/ECE-2024/ECE-250-Test-Cases/blob/main/Testing.md
