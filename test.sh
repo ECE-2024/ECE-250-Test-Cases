@@ -76,7 +76,7 @@ cd /home/$WATID/projects/$PROJ_DIR;
 echo 'CLEANING...';
 rm a.out;
 echo 'COMPILING...';
-g++ *.cpp -o a.out;
+g++ -std=c++11 *.cpp -o a.out;
 echo 'TESTING...';
 $TEST_CMD
 exit;
