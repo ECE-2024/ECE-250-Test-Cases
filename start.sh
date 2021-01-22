@@ -41,7 +41,7 @@ if [ -z "$3" ]
 		echo 'CLEANING...'	
 		rm a.out;
 		echo 'COMPILING...';
-		g++ *.cpp -o a.out;
+		g++ -std=c++11 *.cpp -o a.out;
 		echo 'RUNNING...';
 		./a.out;
 		"
