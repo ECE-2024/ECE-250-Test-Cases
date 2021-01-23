@@ -77,6 +77,10 @@ echo "FILES COPIED TO /home/$WATID/projects/$PROJ_DIR"
 
 ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca "
 cd /home/$WATID/projects/$PROJ_DIR;
+echo 'CONVERTING *.in AND *.out FILES TO UNIX TYPE';
+dos2unix *.in;
+dos2unix *.out;
+echo 'CONVERSION COMPLETE';
 $MAKE_CMD
 exit;
 "
