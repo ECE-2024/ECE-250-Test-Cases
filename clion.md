@@ -3,6 +3,7 @@ The following are steps to run your c++ code on the ECE Ubuntu servers for testi
 
 **This tutorial assumes that you have already created a Clion project. Please click apply after you make each change**
 
+Changes to project folder will be automatically synced to ECE Ubuntu every time you change a file. Clion may not sync file deletions correctly.
 ## Requirements
 You must be able to connect to the University of Waterloo VPN.
 
@@ -45,6 +46,7 @@ Go to the mapping tab and change the deployment path to where you want to place 
 ## Creating a remote CMake config
 File > Settings > Build, Execution, Deployment > CMake. Create a new CMake profile by clicking +. Change the name to Remote Debug, build type to Debug, and toolchain to Remote Host
 
+**Add -D CMAKE_CXX_COMPILER=/usr/bin/g++ to CMake options to ensure CMake uses g++ to compile** 
 ![alt text](readme-images/CM1.PNG)
 
 ## Changing Build Configuration
@@ -54,6 +56,11 @@ Exit settings and click the drop down at the top right corner of clion beside th
 ![alt text](readme-images/CF1.PNG)
 
 **If you do not see the option, wait until Clion finish configuring everything and it should show up.**
+
+## Use C++ 2011
+To change the c++ version to 2011, go to CMakeLists.txt file in your project folder and change CMAKE_CXX_STANDARD to 11.
+
+![alt text](readme-images/V1.PNG)
 
 ## Troubleshooting
 You might see an error about CMake minimum version. If you do, change the cmake_minimum_required line in CMakeLists.txt to the CMake version available on the remote server.
