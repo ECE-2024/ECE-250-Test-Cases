@@ -61,6 +61,7 @@ PROJ_DIR=${PWD##*/}
 ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca "
 echo 'MAKING PROJECT FOLDER...';
 mkdir /home/$WATID/projects;
+rm -r /home/$WATID/projects/$PROJ_DIR;
 mkdir /home/$WATID/projects/$PROJ_DIR;
 exit;
 "
