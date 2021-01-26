@@ -38,8 +38,6 @@ fi
 if [ -z "$3" ]
 	then
 		MAKE_CMD="
-		echo 'CLEANING...'	
-		rm a.out;
 		echo 'COMPILING...';
 		g++ -std=c++11 *.cpp -o a.out;
 		echo 'RUNNING...';
@@ -47,8 +45,6 @@ if [ -z "$3" ]
 		"
 	else
 		MAKE_CMD="
-		echo 'CLEANING...';
-		rm $3;
 		echo 'COMPILING...';
 		make;
 		echo 'RUNNING...';

@@ -3,11 +3,11 @@
 help(){
 	echo
 	echo "FORMATTING:"
-	echo "./test.sh <WATID> <SERVER NUMBER (1 or 2)> <TEST NUMBER (optional, must be 2 digits)>"
+	echo "./test_val.sh <WATID> <SERVER NUMBER (1 or 2)> <TEST NUMBER (optional, must be 2 digits)>"
 	echo "EXAMPLE:"
-	echo "./test.sh j1smith 1"
+	echo "./test_val.sh j1smith 1"
 	echo "EXAMPLE WITH TEST NUMBER:"
-	echo "./test.sh j1smith 1 01"
+	echo "./test_val.sh j1smith 1 01"
 	echo "EXITING..."
 	echo
 	exit -1	
@@ -41,12 +41,12 @@ if [ -z "$3" ]
 		for test in $(ls | grep "test.*.in" | tr -d .in)
 			do
 				TEST_CMD+="echo 'TEST: $test';"
-				TEST_CMD+="./a.out < $test.in | diff $test.out -;"
+				TEST_CMD+="valgrind --leak-check=full ./a.out < $test.in | diff $test.out -;"
 				TEST_CMD+="echo;"
 			done
 	else
 		TEST_CMD+="echo 'TEST: test$3';"
-		TEST_CMD+="./a.out < test$3.in | diff test$3.out -;"
+		TEST_CMD+="valgrind --leak-check=full ./a.out < test$3.in | diff test$3.out -;"
 		TEST_CMD+="echo;"
 fi
 
