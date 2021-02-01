@@ -1,0 +1,8 @@
+push_front "google" "www.google.com"
+print
+clear
+size
+back
+push_back "google" "www.google.com"
+front
+exit

@@ -1,0 +1,15 @@
+push_back "google" "www.google.com"
+push_back "google" "www.google.com"
+push_front "google" "www.google.com"
+push_front "amazon" "www.amazon.com"
+front
+push_back "google" "www.google.com"
+push_back "netflix" "www.netflix.com"
+push_front "google" "www.google.com"
+push_front "google" "www.google.com"
+back
+empty
+size
+print
+find "doesntexist"
+exit

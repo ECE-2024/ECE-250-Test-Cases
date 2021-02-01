@@ -1,0 +1,8 @@
+print
+size
+front
+back
+pop_front
+pop_back
+find "google"
+exit
