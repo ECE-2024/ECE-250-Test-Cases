@@ -1,0 +1,16 @@
+push_front "ligma" "ligma.com"
+push_back "sugma" "sugma.com"
+size
+front
+back
+empty
+find "LIGma"
+pop_front
+print
+find "sugma"
+find "SUGMa"
+clear
+empty
+print
+exit
+
