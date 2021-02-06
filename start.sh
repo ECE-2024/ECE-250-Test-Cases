@@ -38,8 +38,6 @@ fi
 if [ -z "$3" ]
 	then
 		MAKE_CMD="
-		echo 'CLEANING...'	
-		rm a.out;
 		echo 'COMPILING...';
 		g++ -std=c++11 *.cpp -o a.out;
 		echo 'RUNNING...';
@@ -47,8 +45,6 @@ if [ -z "$3" ]
 		"
 	else
 		MAKE_CMD="
-		echo 'CLEANING...';
-		rm $3;
 		echo 'COMPILING...';
 		make;
 		echo 'RUNNING...';
@@ -61,6 +57,7 @@ PROJ_DIR=${PWD##*/}
 ssh -i ece_key $WATID@eceubuntu$SERVER_NUM.uwaterloo.ca "
 echo 'MAKING PROJECT FOLDER...';
 mkdir /home/$WATID/projects;
+rm -r /home/$WATID/projects/$PROJ_DIR;
 mkdir /home/$WATID/projects/$PROJ_DIR;
 exit;
 "

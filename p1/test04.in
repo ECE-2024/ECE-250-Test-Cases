@@ -1,0 +1,44 @@
+push_back "google" "www.google.com"
+front
+back
+size
+push_back "facebook" "www.facebook.com"
+front
+back
+size
+push_back "twitter" "www.twitter.com"
+front
+back
+size
+clear
+size
+push_front "google" "www.google.com"
+front
+back
+size
+push_front "facebook" "www.facebook.com"
+front
+back
+size
+push_front "twitter" "www.twitter.com"
+front
+back
+size
+clear
+size
+push_front "google" "www.google.com"
+push_front "facebook" "www.facebook.com"
+push_back "twitter" "www.twitter.com"
+front
+back
+size
+clear
+size
+push_front "google" "www.google.com"
+push_back "facebook" "www.facebook.com"
+push_front "twitter" "www.twitter.com"
+front
+back
+size
+clear
+exit
