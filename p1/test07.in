@@ -1,0 +1,16 @@
+push_front "google" "www.google.com"
+push_front "google" "www.google.com"
+push_front "google" "www.google.com"
+size
+pop_front
+size
+clear
+size
+empty
+print
+front
+back
+pop_front
+pop_back
+find "example"
+exit
