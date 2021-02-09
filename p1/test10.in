@@ -1,0 +1,7 @@
+push_front "google" "www.google.com"
+push_front "amazon" "amazon.com"
+push_back "netflix" "https://www.netflix.com"
+find "www.google.com"
+find "amazon.com"
+find "https://www.netflix.com"
+exit

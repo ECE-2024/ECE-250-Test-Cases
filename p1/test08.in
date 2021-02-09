@@ -1,0 +1,12 @@
+push_back "amazon: for convenient online shopping" "amazon.ca"
+push_front "netflix!!!" "https://netflix.com/1234567890"
+push_front "google: my favourite web browser" "www.google.com"
+push_back "linkedin !@#$%^&*()" "https://www.linkedin.com/in/johnsmith/!@#$%^&*()"
+front
+back
+find "amazon: for convenient online shopping"
+find "netflix!!!"
+find "google: my favourite web browser"
+find "linkedin !@#$%^&*()"
+print
+exit

@@ -1,0 +1,20 @@
+push_front "google" "www.google.com"
+push_front "amazon" "www.amazon.com"
+push_back "netflix" "www.netflix.com"
+find "Amazon"
+find "NETFLIX"
+find "gOoGlE"
+front
+back
+print
+clear
+push_front "gOoGlE" "www.google.com"
+push_front "Amazon" "www.amazon.com"
+push_back "NETFLIX" "www.netflix.com"
+find "amazon"
+find "netflix"
+find "google"
+front
+back
+print
+exit

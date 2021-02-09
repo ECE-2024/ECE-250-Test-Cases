@@ -1,0 +1,16 @@
+push_back "google" "www.google.com"
+push_front "amazon" "amazon.ca"
+push_front "netflix" "https://netflix.com"
+push_front "unsafe" "http://unsafe.com"
+push_back "my linkedin" "https://www.linkedin.com/in/johnsmith"
+push_front "personal profile" "https://personalprofile.io"
+front
+back
+find "google"
+find "amazon"
+find "netflix"
+find "unsafe"
+find "my linkedin"
+find "personal profile"
+print
+exit
