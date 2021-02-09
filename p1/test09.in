@@ -1,0 +1,10 @@
+push_back "Google: A web browser" "www.google.com"
+push_front "Amazon: Online shopping" "www.amazon.com"
+push_front "Netflix: Streaming service" "www.netflix.com"
+find "Google:Awebbrowser"
+find "Amazon:Onlineshopping"
+find "Netflix:Streamingservice"
+find "Google: A web browser"
+find "Amazon: Online shopping"
+find "Netflix: Streaming service"
+exit
