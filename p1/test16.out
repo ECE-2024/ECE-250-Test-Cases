@@ -1,0 +1,969 @@
+size is 0
+failure
+failure
+success
+aSdz XcQw     easDQw  d AZX qWe https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+front is aSdz XcQw     easDQw  d AZX qWe https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+not found aSdF123 12 asD SAD
+front is aSdz XcQw     easDQw  d AZX qWe https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+back is aSdz XcQw     easDQw  d AZX qWe https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+aSdz XcQw     easDQw  d AZX qWe https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+front is aSdz XcQw     easDQw  d AZX qWe https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+success
+success
+failure
+empty 1
+success
+front is ASDf123 12 asd SAD www.youtube.com
+size is 1
+back is ASDf123 12 asd SAD www.youtube.com
+back is ASDf123 12 asd SAD www.youtube.com
+success
+not found Asdz XcQw     eAsDQw  d azX Qwe
+back is FaxCsdDWe https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+FaxCsdDWe https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+ASDf123 12 asd SAD www.youtube.com
+success
+success
+success
+success
+not found tEsla | VEHIcLE AcCeSsORIEs
+success
+failure
+not found teSta aSD ZZxC
+success
+success
+size is 2
+success
+size is 3
+success
+success
+success
+found asdz XCqW     EAsdqW  D azX qWe https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+success
+size is 0
+success
+success
+success
+back is tHE OFFiCIAl tEsLa SHOp | tEsLa https://shop.tesla.com/?tesref=true
+success
+front is huFioUhfadSHuIfAsDf ASdf www.facebook.com
+success
+success
+success
+size is 1
+size is 1
+front is huFioUhfadSHuIfAsDf ASdf www.facebook.com
+size is 1
+success
+empty 1
+not found aSdZ xcQw     EAsdqw  D azX QWe
+size is 0
+success
+not found tEsla | cHargING
+not found asdfasFdZxc
+hUfIOUhFADSHUIFaSdF aSdf www.facebook.com
+success
+failure
+success
+not found fAXCSDDwe
+success
+success
+front is teSTeR 1232 123asd www.gmail.com
+empty 0
+success
+failure
+failure
+not found asdZ xCQW     EAsdqw  D aZx qWE
+success
+size is 1
+back is dasXczx https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6
+success
+failure
+success
+front is asdF123 12 asd sad www.youtube.com
+not found FAxcsDDwe
+success
+failure
+empty 1
+not found teSTa ASD ZZxC
+empty 1
+failure
+success
+front is thE OfficIal TEslA SHOp | TEsLa https://shop.tesla.com/?tesref=true
+size is 1
+not found ASDZ xcQw     EASDQW  D aZX QwE
+success
+back is thE OfficIal TEslA SHOp | TEsLa https://shop.tesla.com/?tesref=true
+front is fDaHuofDhuIAfdsuHIOASDfUioFdsr12341123 www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23
+size is 2
+front is fDaHuofDhuIAfdsuHIOASDfUioFdsr12341123 www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23
+success
+success
+thE OfficIal TEslA SHOp | TEsLa https://shop.tesla.com/?tesref=true
+fDaHuofDhuIAfdsuHIOASDfUioFdsr12341123 www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23
+success
+aSDf123 12 aSD SaD www.youtube.com
+thE OfficIal TEslA SHOp | TEsLa https://shop.tesla.com/?tesref=true
+fDaHuofDhuIAfdsuHIOASDfUioFdsr12341123 www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23
+success
+success
+success
+success
+success
+size is 0
+failure
+failure
+failure
+empty 1
+not found ASDf123 12 aSD sAD
+failure
+failure
+success
+size is 0
+success
+size is 1
+found FdAHuoFdHuiAFDsuHIOASdFuIOFdsr12341123 www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23
+FdAHuoFdHuiAFDsuHIOASdFuIOFdsr12341123 www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23
+success
+success
+success
+empty 0
+empty 0
+empty 0
+not found teStA ASD ZzXc
+success
+failure
+failure
+success
+size is 1
+empty 0
+success
+success
+empty 0
+success
+failure
+failure
+success
+success
+success
+success
+size is 2
+back is FaXCsddwe https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+empty 0
+not found huFIOUhfAdSHUIFaSdf asdF
+success
+success
+success
+success
+success
+success
+failure
+not found tHE OFFicIal TESLa SHOP | teSLa
+not found TEsteR 1232 123AsD
+success
+front is huFIOUHfadsHuIFasDf aSdf www.facebook.com
+back is huFIOUHfadsHuIFasDf aSdf www.facebook.com
+success
+empty 0
+empty 0
+huFIOUHfadsHuIFasDf aSdf www.facebook.com
+tESLA | chARgiNG https://shop.tesla.com/category/charging
+success
+success
+failure
+empty 1
+empty 1
+success
+success
+empty 1
+failure
+empty 1
+success
+success
+failure
+success
+success
+success
+success
+empty 0
+front is daSXcZX https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6
+found TestA asD ZZXc https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+success
+front is HuFIOuhFADshUIFaSdF AsDf www.facebook.com
+success
+not found fAXcsdDWE
+not found FaxCSDDWE
+empty 0
+size is 5
+success
+not found AsDfAsFDZXC
+not found TestA Asd zzxC
+success
+success
+success
+back is daSXcZX https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6
+back is daSXcZX https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6
+size is 3
+success
+not found TEslA | VeHIcle acCESsOrIES
+front is FdAhuOFdHUiafDSuhIOaSdfuiOFDSR12341123 www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23
+success
+front is FdAhuOFdHUiafDSuhIOaSdfuiOFDSR12341123 www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23
+not found 12mAJDUTasDSd
+success
+not found 12MaJdUtAsdsd
+success
+success
+TEStA ASd zzXc https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+TEStA ASd zzXc https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+success
+failure
+failure
+failure
+size is 0
+failure
+size is 0
+success
+success
+success
+success
+success
+success
+success
+success
+failure
+empty 1
+success
+not found aSDz xcqW     easDqW  d azx qwe
+TEsta AsD ZzXC https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+empty 0
+front is TEsta AsD ZzXC https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+front is TEsta AsD ZzXC https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+back is TEsta AsD ZzXC https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+success
+success
+success
+failure
+not found XXCVsdAFeWr
+success
+success
+empty 1
+failure
+success
+back is THE OFFiCiAl TeslA shoP | tEsLa https://shop.tesla.com/?tesref=true
+success
+failure
+success
+empty 1
+not found SAdfZxcZXCasDQWE
+failure
+empty 1
+failure
+failure
+failure
+not found AsDF123 12 ASD SaD
+success
+back is tester 1232 123aSd www.gmail.com
+back is tester 1232 123aSd www.gmail.com
+success
+failure
+failure
+success
+failure
+success
+failure
+failure
+failure
+success
+size is 0
+failure
+failure
+success
+size is 1
+front is ASDfAsFdzxc www.instagram.com
+ASDfAsFdzxc www.instagram.com
+success
+empty 1
+success
+TEsTER 1232 123ASD www.gmail.com
+success
+empty 1
+success
+failure
+failure
+success
+success
+success
+success
+success
+empty 0
+success
+size is 4
+not found HufiouhfaDsHuifaSdf AsdF
+empty 0
+success
+success
+failure
+success
+success
+success
+failure
+failure
+success
+size is 0
+success
+back is 12mAjduTAsdsD https://sites.google.com/site/emmfis/teaching/math-211
+empty 0
+empty 0
+size is 1
+back is 12mAjduTAsdsD https://sites.google.com/site/emmfis/teaching/math-211
+success
+success
+back is SAdfZxCZXcAsdqWE www.uwaterloo.ca
+not found xXCVsdaFeWR
+size is 1
+success
+failure
+size is 0
+empty 1
+failure
+failure
+failure
+not found asdZ xCqW     EASDQW  D AZX qWE
+success
+failure
+not found tEstA asD zzXc
+failure
+success
+success
+success
+success
+front is TEsTEr 1232 123AsD www.gmail.com
+success
+success
+success
+not found FDahUoFDhUIaFDsUhiOASdFUIOFDsR12341123
+success
+not found 12MAJDuTASDSd
+failure
+not found HuFIoUHfADSHuiFAsdF aSdF
+empty 1
+success
+failure
+failure
+failure
+failure
+success
+size is 1
+success
+failure
+failure
+success
+success
+TeStA asd ZZxc https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+ASDz Xcqw     EASdQw  D AZX QwE https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+size is 2
+success
+size is 3
+empty 0
+success
+success
+success
+not found FaXCsDdwe
+success
+success
+success
+front is tesTa ASD ZzXC https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+empty 0
+success
+not found aSdFaSfdZXC
+success
+tesTa ASD ZzXC https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+success
+success
+success
+failure
+size is 0
+failure
+success
+success
+empty 1
+failure
+success
+not found XxcvSDafEWr
+not found fDAHuoFDhuiafDSUhIoASdfuIofDSR12341123
+not found TESLA | VehiClE AcCEsSOrIeS
+failure
+failure
+success
+success
+not found ASDZ XcqW     EasDQW  d AZx Qwe
+size is 0
+empty 1
+failure
+failure
+failure
+failure
+failure
+failure
+failure
+not found tESTA ASD zzxC
+failure
+empty 1
+empty 1
+success
+success
+failure
+empty 1
+size is 0
+success
+success
+failure
+success
+empty 0
+12MAJdUTASDSD https://sites.google.com/site/emmfis/teaching/math-211
+empty 0
+not found XXCvSdafewR
+success
+empty 0
+success
+empty 0
+success
+front is ASDf123 12 asD SAD www.youtube.com
+success
+back is 12MAJdUTASDSD https://sites.google.com/site/emmfis/teaching/math-211
+success
+front is tesla | charging https://shop.tesla.com/category/charging
+size is 4
+12MAJdUTASDSD https://sites.google.com/site/emmfis/teaching/math-211
+ASDf123 12 asD SAD www.youtube.com
+tesTER 1232 123aSd www.gmail.com
+tesla | charging https://shop.tesla.com/category/charging
+success
+empty 0
+success
+empty 1
+failure
+failure
+failure
+failure
+failure
+size is 0
+success
+success
+failure
+failure
+success
+not found thE oFficIAl TeSLa shOp | tesLA
+back is FAXCsDdwE https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+success
+success
+front is tesla | VeHiclE acCEsSORiEs https://shop.tesla.com/category/vehicle-accessories
+front is tesla | VeHiclE acCEsSORiEs https://shop.tesla.com/category/vehicle-accessories
+size is 3
+success
+back is XxCvsdafEwr www.google.com
+XxCvsdafEwr www.google.com
+DAsxczX https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6
+FAXCsDdwE https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+tesla | VeHiclE acCEsSORiEs https://shop.tesla.com/category/vehicle-accessories
+success
+empty 0
+size is 5
+XxCvsdafEwr www.google.com
+DAsxczX https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6
+FAXCsDdwE https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+tesla | VeHiclE acCEsSORiEs https://shop.tesla.com/category/vehicle-accessories
+USe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:l?<>? https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204
+front is USe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:l?<>? https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204
+back is XxCvsdafEwr www.google.com
+back is XxCvsdafEwr www.google.com
+size is 5
+front is USe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:l?<>? https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204
+size is 5
+size is 5
+success
+success
+front is USe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:l?<>? https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204
+success
+front is USe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:l?<>? https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204
+success
+not found tesla | VeHicLE accesSORiES
+not found FAxcSDDWE
+empty 1
+failure
+success
+success
+success
+success
+size is 1
+not found Asdz xcqw     eAsDQw  d AZX QwE
+front is TEStEr 1232 123aSD www.gmail.com
+front is TEStEr 1232 123aSD www.gmail.com
+success
+failure
+success
+success
+front is xXCvSdafEWr www.google.com
+success
+success
+front is tEsTA ASD zzXC https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+empty 0
+success
+failure
+success
+failure
+failure
+failure
+failure
+success
+success
+failure
+size is 0
+failure
+size is 0
+failure
+empty 1
+empty 1
+size is 0
+empty 1
+success
+failure
+failure
+size is 0
+size is 0
+failure
+success
+success
+not found FaXcSDdWE
+failure
+failure
+not found tESla | vEHiCle aCcessoRieS
+failure
+failure
+size is 0
+not found asdF123 12 asD saD
+empty 1
+size is 0
+failure
+not found tHE OFFIcIaL teSlA sHOP | TESla
+failure
+failure
+success
+success
+success
+failure
+success
+success
+success
+not found XxCvsDAfEwr
+failure
+empty 1
+empty 1
+success
+not found DasxczX
+size is 1
+success
+failure
+failure
+failure
+success
+failure
+failure
+success
+fAxcsDDWE https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+front is fAxcsDDWE https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+success
+size is 2
+success
+front is fAxcsDDWE https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+success
+front is tESta asD ZZXc https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+success
+back is fAxcsDDWE https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+success
+success
+success
+success
+success
+back is tHE oFFICIAL teSLa SHop | TeSLa https://shop.tesla.com/?tesref=true
+success
+success
+not found HufIoUhFADSHuifasDf Asdf
+not found ASDf123 12 ASD sad
+empty 1
+failure
+size is 0
+success
+success
+success
+back is uSe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:L?<>? https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204
+size is 3
+success
+success
+success
+TEsla | vEhiCLE ACcESSORIES https://shop.tesla.com/category/vehicle-accessories
+TEsTa aSD ZZXc https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+success
+success
+empty 0
+success
+empty 0
+success
+not found teslA | vehICLe aCcesSOries
+size is 3
+success
+TeSla | cHARGing https://shop.tesla.com/category/charging
+testa asD ZzXc https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+empty 0
+back is TeSla | cHARGing https://shop.tesla.com/category/charging
+success
+found aSDfAsFdZxC www.instagram.com
+aSDfAsFdZxC www.instagram.com
+TeSla | cHARGing https://shop.tesla.com/category/charging
+testa asD ZzXc https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+front is testa asD ZzXc https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5
+success
+empty 0
+size is 4
+success
+success
+front is aSDfAsFdZxC www.instagram.com
+front is aSDfAsFdZxC www.instagram.com
+success
+empty 0
+success
+back is aSDfAsFdZxC www.instagram.com
+success
+not found USe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:L?<>?
+size is 0
+success
+success
+success
+not found SADfZXcZXCAsDqWE
+12MaJDUtASDSD https://sites.google.com/site/emmfis/teaching/math-211
+success
+empty 0
+not found THE ofFIcial TESLa shOP | TeSLa
+success
+success
+size is 2
+success
+success
+failure
+failure
+failure
+success
+empty 0
+front is tEslA | veHicLe aCcesSorIes https://shop.tesla.com/category/vehicle-accessories
+success
+back is fAXCsDDwE https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+front is tEslA | veHicLe aCcesSorIes https://shop.tesla.com/category/vehicle-accessories
+fAXCsDDwE https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+tEslA | veHicLe aCcesSorIes https://shop.tesla.com/category/vehicle-accessories
+back is fAXCsDDwE https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+fAXCsDDwE https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+tEslA | veHicLe aCcesSorIes https://shop.tesla.com/category/vehicle-accessories
+success
+back is SadFZxCzxCASDqWE www.uwaterloo.ca
+not found fdAhUoFDHUiafdsUhIoASDfUIoFdsr12341123
+success
+failure
+size is 0
+failure
+empty 1
+failure
+not found faxcSdDWe
+size is 0
+failure
+not found the OfFIcIAL tesLA Shop | tEsLA
+success
+success
+not found UsE($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:L?<>?
+empty 1
+empty 1
+failure
+size is 0
+failure
+success
+failure
+not found aSdfAsfDZxc
+success
+not found asDz XCQW     EAsdQW  D aZx QWe
+empty 1
+failure
+size is 0
+success
+failure
+failure
+empty 1
+success
+success
+success
+success
+success
+success
+empty 0
+success
+success
+empty 0
+not found DASXcZX
+success
+success
+back is xXCVSDaFEwR www.google.com
+empty 0
+success
+not found TesTeR 1232 123asd
+not found 12MaJdutaSdSd
+not found FAxCSDDWE
+empty 1
+empty 1
+not found xxCvSdafeWr
+success
+empty 0
+empty 0
+front is 12mAjdutASdSD https://sites.google.com/site/emmfis/teaching/math-211
+success
+size is 0
+failure
+size is 0
+failure
+size is 0
+success
+size is 1
+success
+failure
+failure
+success
+success
+empty 0
+success
+success
+success
+success
+success
+empty 1
+empty 1
+success
+failure
+failure
+empty 1
+failure
+success
+teSTeR 1232 123Asd www.gmail.com
+empty 0
+size is 1
+size is 1
+front is teSTeR 1232 123Asd www.gmail.com
+teSTeR 1232 123Asd www.gmail.com
+empty 0
+success
+success
+success
+success
+failure
+empty 1
+success
+back is ASDf123 12 aSD SaD www.youtube.com
+success
+success
+success
+not found tEsLA | vEHiClE aCcESsoRieS
+not found DASXcZX
+success
+size is 0
+not found FAXCsddWE
+success
+success
+success
+success
+size is 1
+success
+failure
+size is 0
+success
+empty 1
+failure
+success
+failure
+not found TeStEr 1232 123ASd
+empty 1
+empty 1
+success
+success
+success
+success
+success
+size is 2
+success
+success
+failure
+failure
+failure
+not found ASDZ XcQw     eaSdQW  D aZx qWE
+not found FdaHUOfdHuiafdsUHiOaSDFuiofdSr12341123
+failure
+failure
+empty 1
+not found TEsla | CHaRGiNg
+size is 0
+failure
+empty 1
+failure
+failure
+success
+success
+success
+front is Asdz xCqw     EASdqw  d AZX QWe https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+success
+front is Asdz xCqw     EASdqw  d AZX QWe https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+size is 1
+success
+empty 0
+success
+success
+not found HUfIoUhFADsHuiFasDf asDF
+failure
+failure
+failure
+not found aSdf123 12 asd sad
+failure
+not found saDFzxCzXcAsDQwE
+success
+empty 1
+success
+teSTER 1232 123AsD www.gmail.com
+teSTER 1232 123AsD www.gmail.com
+success
+failure
+failure
+size is 0
+failure
+failure
+failure
+size is 0
+failure
+failure
+failure
+failure
+failure
+success
+success
+success
+size is 0
+size is 0
+failure
+failure
+size is 0
+success
+success
+failure
+empty 1
+failure
+failure
+success
+size is 0
+success
+failure
+not found SaDFZxczxcASDqWE
+success
+tHe OFFicIal tESla shOp | teSLA https://shop.tesla.com/?tesref=true
+success
+success
+empty 0
+not found AsdZ XCqW     EASdqW  d AZX QWE
+success
+success
+success
+failure
+success
+back is faxCsDdwe https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+success
+back is faxCsDdwe https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5
+success
+success
+success
+not found hUfiouHfadSHuIfAsdf aSDf
+back is DASXCzX https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6
+success
+success
+back is HUFiOuhFADshuiFaSdf asdF www.facebook.com
+success
+success
+success
+size is 0
+success
+failure
+failure
+success
+success
+size is 1
+empty 0
+size is 1
+not found USe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:l?<>?
+success
+success
+success
+size is 0
+not found FaxcSddWE
+failure
+not found AsDfasFDZxc
+failure
+failure
+not found 12MajduTaSdsD
+not found TESTEr 1232 123ASd
+success
+DAsXczX https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6
+success
+back is DAsXczX https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6
+not found faxCsdDWE
+front is ASDZ XcQW     easdQw  D aZX QWE https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+front is ASDZ XcQW     easdQw  D aZX QWE https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5
+not found TESta ASD ZZXC
+success
+not found use($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:L?<>?
+success
+success
+success
+success
+success
+size is 0
+failure
+failure
+failure
+success
+success
+success
+success
+back is SADfzXcZxCASDQWe www.uwaterloo.ca
+front is SADfzXcZxCASDQWe www.uwaterloo.ca
+success
+success
+size is 3
+success
+empty 0
+success
+size is 1
+success
+not found sAdFZxcZxCASDQwe
+failure
+success
+empty 1
+empty 1
+not found TEsta asD ZzXc
+failure
+success
+failure
+success
+success
+failure
+failure
+failure
+empty 1
+failure
+failure
+success
+success
+success
+failure

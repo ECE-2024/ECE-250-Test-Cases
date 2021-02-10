@@ -1,0 +1,1001 @@
+size
+print
+pop_front
+pop_back
+push_back "aSdz XcQw     easDQw  d AZX qWe" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+print
+front
+find "aSdF123 12 asD SAD"
+front
+back
+print
+front
+pop_back
+clear
+pop_front
+empty
+push_front "ASDf123 12 asd SAD" "www.youtube.com"
+front
+size
+back
+back
+push_back "FaxCsdDWe" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+find "Asdz XcQw     eAsDQw  d azX Qwe"
+back
+print
+clear
+push_back "the oFfiCIal teSLA shOp | tESlA" "https://shop.tesla.com/?tesref=true"
+pop_front
+push_back "USe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:L?<>?" "https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204"
+find "tEsla | VEHIcLE AcCeSsORIEs"
+pop_front
+back
+find "teSta aSD ZZxC"
+push_back "asdz XCqW     EAsdqW  D azX qWe" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+push_front "testeR 1232 123aSD" "www.gmail.com"
+size
+push_back "AsDFaSfdzxc" "www.instagram.com"
+size
+push_front "aSdF123 12 aSD SaD" "www.youtube.com"
+push_back "SADFZxCZxcASDqWE" "www.uwaterloo.ca"
+push_back "SadFZxCzxCAsDQwe" "www.uwaterloo.ca"
+find "AsdZ xCqW     EasdQW  D AzX qwE"
+clear
+size
+push_front "tHE OFFiCIAl tEsLa SHOp | tEsLa" "https://shop.tesla.com/?tesref=true"
+push_back "AsdfaSFDzxC" "www.instagram.com"
+pop_back
+back
+push_front "huFioUhfadSHuIfAsDf ASdf" "www.facebook.com"
+front
+push_front "tesLA | VeHiCLe accESSORies" "https://shop.tesla.com/category/vehicle-accessories"
+pop_back
+pop_front
+size
+size
+front
+size
+pop_front
+empty
+find "aSdZ xcQw     EAsdqw  D azX QWe"
+size
+push_front "hUfIOUhFADSHUIFaSdF aSdf" "www.facebook.com"
+find "tEsla | cHargING"
+find "asdfasFdZxc"
+print
+pop_front
+front
+clear
+find "fAXCSDDwe"
+push_front "FAxCSDdwE" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+push_front "teSTeR 1232 123asd" "www.gmail.com"
+front
+empty
+clear
+front
+back
+find "asdZ xCQW     EAsdqw  D aZx qWE"
+push_back "dasXczx" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+size
+back
+pop_front
+pop_front
+push_back "asdF123 12 asd sad" "www.youtube.com"
+front
+find "FAxcsDDwe"
+pop_back
+back
+empty
+find "teSTa ASD ZZxC"
+empty
+front
+push_back "thE OfficIal TEslA SHOp | TEsLa" "https://shop.tesla.com/?tesref=true"
+front
+size
+find "ASDZ xcQw     EASDQW  D aZX QwE"
+push_front "fDaHuofDhuIAfdsuHIOASDfUioFdsr12341123" "www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23"
+back
+front
+size
+front
+push_front "daSXczX" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+pop_front
+print
+push_back "aSDf123 12 aSD SaD" "www.youtube.com"
+print
+push_front "dAsxczx" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+push_front "dAsxczx" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+clear
+push_front "TEsTa asd zZxc" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+pop_back
+size
+back
+back
+pop_front
+empty
+find "ASDf123 12 aSD sAD"
+pop_front
+back
+print
+clear
+size
+push_back "FdAHuoFdHuiAFDsuHIOASdFuIOFdsr12341123" "www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23"
+size
+find "FdAhuOFdhuiAFDSUhioASdfuIOFdsr12341123"
+print
+pop_front
+clear
+push_back "tESLA | CHARGiNg" "https://shop.tesla.com/category/charging"
+empty
+empty
+empty
+find "teStA ASD ZzXc"
+clear
+pop_back
+print
+pop_front
+push_front "teSTa asd zzXC" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+size
+empty
+push_front "dasxczX" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+push_back "tEster 1232 123ASd" "www.gmail.com"
+empty
+clear
+front
+front
+push_front "ThE OfFICIal TeSla shOp | TEslA" "https://shop.tesla.com/?tesref=true"
+pop_back
+print
+push_back "aSdFaSFDzXC" "www.instagram.com"
+push_back "FaXCsddwe" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+size
+back
+empty
+find "huFIOUhfAdSHUIFaSdf asdF"
+push_back "aSdFaSFDzXC" "www.instagram.com"
+clear
+push_front "uSe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:l?<>?" "https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204"
+pop_front
+push_front "aSdF123 12 Asd sad" "www.youtube.com"
+clear
+pop_front
+find "tHE OFFicIal TESLa SHOP | teSLa"
+find "TEsteR 1232 123AsD"
+push_front "huFIOUHfadsHuIFasDf aSdf" "www.facebook.com"
+front
+back
+push_front "tESLA | chARgiNG" "https://shop.tesla.com/category/charging"
+empty
+empty
+print
+pop_back
+pop_front
+pop_front
+empty
+empty
+print
+push_back "SADfZXczxCasdQwE" "www.uwaterloo.ca"
+pop_front
+empty
+back
+empty
+push_back "SadFzXcZxcaSDQWe" "www.uwaterloo.ca"
+clear
+front
+print
+clear
+push_front "TestA asD ZZXc" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+push_front "tESlA | CHARGInG" "https://shop.tesla.com/category/charging"
+push_front "daSXcZX" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+empty
+front
+find "TeStA ASd zzXC"
+push_front "HuFIOuhFADshUIFaSdF AsDf" "www.facebook.com"
+front
+push_front "FdAhuOFdHUiafDSuhIOaSdfuiOFDSR12341123" "www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23"
+find "fAXcsdDWE"
+find "FaxCSDDWE"
+empty
+size
+pop_back
+find "AsDfAsFDZXC"
+find "TestA Asd zzxC"
+push_front "HuFIOuhFADshUIFaSdF AsDf" "www.facebook.com"
+pop_back
+pop_front
+back
+back
+size
+pop_back
+find "TEslA | VeHIcle acCESsOrIES"
+front
+pop_back
+front
+find "12mAJDUTasDSd"
+pop_back
+print
+find "12MaJdUtAsdsd"
+push_back "TEStA ASd zzXc" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+push_back "TEStA ASd zzXc" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+print
+clear
+back
+pop_front
+front
+size
+pop_back
+size
+push_front "TeslA | cHaRGiNg" "https://shop.tesla.com/category/charging"
+push_front "hUfIOuhfAdShuifAsDF Asdf" "www.facebook.com"
+pop_back
+clear
+push_front "SADFZxcZxcasdqwE" "www.uwaterloo.ca"
+clear
+clear
+print
+print
+clear
+front
+empty
+push_back "TEsta AsD ZzXC" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+find "aSDz xcqW     easDqW  d azx qwe"
+print
+empty
+front
+front
+back
+pop_front
+push_back "FaXCSdDwE" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+clear
+back
+find "XXCVsdAFeWr"
+clear
+clear
+empty
+back
+push_back "THE OFFiCiAl TeslA shoP | tEsLa" "https://shop.tesla.com/?tesref=true"
+back
+pop_front
+pop_front
+clear
+empty
+find "SAdfZxcZXCasDQWE"
+pop_back
+empty
+back
+print
+back
+back
+find "AsDF123 12 ASD SaD"
+push_front "tester 1232 123aSd" "www.gmail.com"
+back
+back
+clear
+pop_front
+front
+clear
+pop_back
+clear
+back
+print
+pop_front
+pop_front
+clear
+size
+back
+front
+push_back "ASDfAsFdzxc" "www.instagram.com"
+size
+front
+print
+clear
+empty
+print
+push_back "TEsTER 1232 123ASD" "www.gmail.com"
+print
+pop_front
+empty
+clear
+pop_front
+pop_back
+print
+push_back "XxCvsdAFeWr" "www.google.com"
+push_back "aSDFasfDzxC" "www.instagram.com"
+push_back "SadfZXczXcAsdQwE" "www.uwaterloo.ca"
+push_back "aSdz XCqw     EAsDQW  D Azx qwe" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+push_front "12MAJduTaSdSd" "https://sites.google.com/site/emmfis/teaching/math-211"
+empty
+pop_back
+size
+find "HufiouhfaDsHuifaSdf AsdF"
+empty
+pop_front
+clear
+pop_front
+clear
+push_back "asDZ XCQW     EaSdqW  D AZX QWe" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+pop_front
+back
+pop_front
+clear
+size
+push_back "12mAjduTAsdsD" "https://sites.google.com/site/emmfis/teaching/math-211"
+back
+empty
+empty
+size
+back
+pop_front
+print
+push_front "SAdfZxCZXcAsdqWE" "www.uwaterloo.ca"
+back
+find "xXCVsdaFeWR"
+size
+clear
+print
+pop_front
+size
+empty
+pop_back
+back
+pop_back
+find "asdZ xCqW     EASDQW  D AZX qWE"
+clear
+front
+find "tEstA asD zzXc"
+back
+push_front "aSDfASfDZxc" "www.instagram.com"
+clear
+push_front "fdAhUoFdhUIaFDsUhiOAsDfuiofdsr12341123" "www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23"
+push_front "TEsTEr 1232 123AsD" "www.gmail.com"
+front
+push_front "HUFIoUHFadsHUifasDf ASDf" "www.facebook.com"
+clear
+push_back "TEstEr 1232 123aSd" "www.gmail.com"
+find "FDahUoFDhUIaFDsUhiOASdFUIOFDsR12341123"
+clear
+find "12MAJDuTASDSd"
+pop_back
+find "HuFIoUHfADSHuiFAsdF aSdF"
+print
+empty
+clear
+back
+pop_back
+back
+front
+push_back "daSXcZx" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+size
+clear
+pop_back
+pop_front
+push_back "ASDz Xcqw     EASdQw  D AZX QwE" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+push_back "TeStA asd ZZxc" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+print
+size
+push_back "12MAjDUTAsdsd" "https://sites.google.com/site/emmfis/teaching/math-211"
+size
+empty
+pop_front
+pop_back
+clear
+find "FaXCsDdwe"
+push_front "tEsTER 1232 123ASD" "www.gmail.com"
+pop_front
+push_back "tesTa ASD ZzXC" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+front
+empty
+push_back "XXcVSdAfEwr" "www.google.com"
+find "aSdFaSfdZXC"
+pop_back
+print
+push_front "AsdZ XCqW     easDqw  D azx Qwe" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+push_back "HuFIOuHfAdSHuifaSdF ASDf" "www.facebook.com"
+clear
+front
+size
+front
+push_front "teSTA asd ZzXC" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+pop_back
+empty
+pop_front
+clear
+find "XxcvSDafEWr"
+find "fDAHuoFDhuiafDSUhIoASdfuIofDSR12341123"
+find "TESLA | VehiClE AcCEsSOrIeS"
+pop_back
+pop_back
+push_front "teSlA | VeHICLe AcCEsSOrIES" "https://shop.tesla.com/category/vehicle-accessories"
+pop_back
+find "ASDZ XcqW     EasDQW  d AZx Qwe"
+size
+empty
+pop_back
+print
+front
+pop_front
+back
+pop_back
+front
+pop_back
+find "tESTA ASD zzxC"
+print
+front
+empty
+empty
+push_back "aSDfaSfdZxc" "www.instagram.com"
+pop_back
+pop_front
+empty
+print
+size
+push_front "XxCvsDaFewr" "www.google.com"
+pop_front
+pop_back
+print
+push_back "12MAJdUTASDSD" "https://sites.google.com/site/emmfis/teaching/math-211"
+empty
+print
+empty
+find "XXCvSdafewR"
+push_front "ASDf123 12 asD SAD" "www.youtube.com"
+empty
+push_back "tHE oFfIcIal TESlA ShOp | TEsLa" "https://shop.tesla.com/?tesref=true"
+empty
+pop_back
+front
+push_front "tesTER 1232 123aSd" "www.gmail.com"
+back
+push_front "tesla | charging" "https://shop.tesla.com/category/charging"
+front
+size
+print
+push_front "fAXcsDdWE" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+empty
+clear
+empty
+print
+pop_front
+pop_front
+pop_front
+pop_back
+print
+print
+pop_front
+size
+push_back "FDAhUOFDhuiAfDSuHIoAsdfUiofDsr12341123" "www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23"
+pop_front
+pop_front
+pop_front
+push_back "FAXCsDdwE" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+find "thE oFficIAl TeSLa shOp | tesLA"
+back
+push_front "tesla | VeHiclE acCEsSORiEs" "https://shop.tesla.com/category/vehicle-accessories"
+push_back "DAsxczX" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+front
+front
+size
+push_back "XxCvsdafEwr" "www.google.com"
+back
+print
+push_front "USe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:l?<>?" "https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204"
+empty
+size
+print
+front
+back
+back
+size
+front
+size
+size
+pop_back
+pop_back
+front
+pop_back
+front
+clear
+find "tesla | VeHicLE accesSORiES"
+find "FAxcSDDWE"
+empty
+pop_back
+push_front "asdF123 12 AsD sad" "www.youtube.com"
+push_back "sAdFZXCzXcasDQwe" "www.uwaterloo.ca"
+clear
+print
+push_front "TEStEr 1232 123aSD" "www.gmail.com"
+size
+find "Asdz xcqw     eAsDQw  d AZX QwE"
+front
+front
+clear
+front
+clear
+push_back "xXCvSdafEWr" "www.google.com"
+front
+clear
+push_front "tEsTA ASD zzXC" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+front
+empty
+pop_front
+pop_front
+clear
+pop_back
+front
+pop_front
+pop_back
+push_front "hUfIOuhFadshuIfASDF ASDF" "www.facebook.com"
+clear
+pop_front
+size
+back
+size
+pop_front
+empty
+empty
+size
+empty
+clear
+print
+pop_front
+pop_back
+size
+size
+back
+print
+clear
+print
+clear
+find "FaXcSDdWE"
+pop_back
+pop_front
+find "tESla | vEHiCle aCcessoRieS"
+back
+back
+size
+find "asdF123 12 asD saD"
+print
+empty
+size
+front
+find "tHE OFFIcIaL teSlA sHOP | TESla"
+front
+front
+clear
+push_back "AsDFASfDzxC" "www.instagram.com"
+clear
+print
+front
+clear
+push_front "AsdFasFDzxC" "www.instagram.com"
+pop_back
+find "XxCvsDAfEwr"
+front
+empty
+empty
+push_front "sadfZxcZxcaSDQWE" "www.uwaterloo.ca"
+find "DasxczX"
+size
+pop_back
+front
+back
+print
+pop_back
+clear
+pop_back
+front
+push_front "fAxcsDDWE" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+print
+front
+push_front "fAxcsDDWE" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+size
+push_front "fAxcsDDWE" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+front
+push_front "tESta asD ZZXc" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+front
+push_front "HufiOuHFAdShuIfasDF aSdF" "www.facebook.com"
+back
+pop_back
+push_back "fAxcsDDWE" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+pop_front
+push_back "tHE oFFICIAL teSLa SHop | TeSLa" "https://shop.tesla.com/?tesref=true"
+pop_front
+back
+pop_back
+clear
+find "HufIoUhFADSHuifasDf Asdf"
+find "ASDf123 12 ASD sad"
+empty
+front
+print
+size
+push_back "TEsla | vEhiCLE ACcESSORIES" "https://shop.tesla.com/category/vehicle-accessories"
+push_front "TEsTa aSD ZZXc" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+push_back "uSe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:L?<>?" "https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204"
+back
+size
+push_front "ASdFASFDZXC" "www.instagram.com"
+pop_front
+pop_back
+print
+clear
+push_front "xxCvsDafewR" "www.google.com"
+empty
+push_front "TeSla | cHARGing" "https://shop.tesla.com/category/charging"
+empty
+push_front "testa asD ZzXc" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+find "teslA | vehICLe aCcesSOries"
+size
+pop_back
+print
+empty
+back
+push_back "aSDfAsFdZxC" "www.instagram.com"
+find "AsdfAsFDZXC"
+print
+front
+push_back "aSDfAsFdZxC" "www.instagram.com"
+empty
+size
+pop_back
+push_front "aSDfAsFdZxC" "www.instagram.com"
+front
+front
+push_back "tHE oFFicIaL tESla SHoP | tesLA" "https://shop.tesla.com/?tesref=true"
+empty
+pop_back
+back
+clear
+find "USe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:L?<>?"
+size
+push_front "uSE($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:l?<>?" "https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204"
+push_back "12MaJDUtASDSD" "https://sites.google.com/site/emmfis/teaching/math-211"
+pop_front
+find "SADfZXcZXCAsDqWE"
+print
+push_back "12mAjDuTaSdsD" "https://sites.google.com/site/emmfis/teaching/math-211"
+empty
+find "THE ofFIcial TESLa shOP | TeSLa"
+pop_front
+push_back "TESLA | VEHiCLe ACCEsSOrieS" "https://shop.tesla.com/category/vehicle-accessories"
+size
+push_back "tESLa | veHiclE AccESSoRIEs" "https://shop.tesla.com/category/vehicle-accessories"
+clear
+back
+back
+pop_front
+push_back "tEslA | veHicLe aCcesSorIes" "https://shop.tesla.com/category/vehicle-accessories"
+empty
+front
+push_back "fAXCsDDwE" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+back
+front
+print
+back
+print
+push_back "SadFZxCzxCASDqWE" "www.uwaterloo.ca"
+back
+find "fdAhUoFDHUiafdsUhIoASDfUIoFdsr12341123"
+clear
+pop_front
+size
+front
+empty
+pop_front
+find "faxcSdDWe"
+size
+pop_back
+find "the OfFIcIAL tesLA Shop | tEsLA"
+push_front "asdF123 12 ASD sad" "www.youtube.com"
+pop_back
+find "UsE($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:L?<>?"
+empty
+empty
+pop_front
+size
+pop_back
+clear
+back
+find "aSdfAsfDZxc"
+clear
+find "asDz XCQW     EAsdQW  D aZx QWe"
+empty
+pop_back
+size
+print
+clear
+pop_back
+pop_back
+empty
+push_back "SAdFZxCzXcASdQwe" "www.uwaterloo.ca"
+clear
+print
+push_front "aSDz xcqw     eASdqw  d AzX qWe" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+push_front "usE($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:L?<>?" "https://github.com/ryanz34/ECE-250-Test-Cases/commit/a645a440d845ed3ebf37b45d3fcc57e1435d2204"
+clear
+push_front "asdZ xcQw     eaSdqw  D azx qwE" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+empty
+push_front "TestEr 1232 123aSd" "www.gmail.com"
+pop_back
+empty
+find "DASXcZX"
+clear
+push_front "xXCVSDaFEwR" "www.google.com"
+back
+empty
+pop_back
+find "TesTeR 1232 123asd"
+find "12MaJdutaSdSd"
+find "FAxCSDDWE"
+empty
+empty
+find "xxCvSdafeWr"
+push_front "12mAjdutASdSD" "https://sites.google.com/site/emmfis/teaching/math-211"
+empty
+empty
+front
+pop_front
+print
+size
+pop_back
+size
+back
+size
+push_back "TeSlA | ChaRgiNg" "https://shop.tesla.com/category/charging"
+size
+pop_front
+pop_back
+front
+push_front "asdZ xCqw     EaSdqw  D azx Qwe" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+push_front "dasxCzx" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+empty
+pop_back
+clear
+push_front "faxcSDdWE" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+pop_back
+clear
+empty
+empty
+clear
+pop_back
+back
+print
+empty
+back
+print
+push_front "teSTeR 1232 123Asd" "www.gmail.com"
+print
+empty
+size
+size
+front
+print
+empty
+pop_front
+push_back "fdAHUofDHUIafDSuhIoasdfuiofdSR12341123" "www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23"
+push_back "faxCSDdWE" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+clear
+pop_front
+empty
+push_front "ASDf123 12 aSD SaD" "www.youtube.com"
+back
+push_front "fDAHUoFDHUIafdSUhioaSDfuIOfDSr12341123" "www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23"
+pop_back
+push_front "asDZ xCqw     EAsDqw  d aZX QwE" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+find "tEsLA | vEHiClE aCcESsoRieS"
+find "DASXcZX"
+clear
+size
+find "FAXCsddWE"
+clear
+clear
+clear
+push_back "xXCvSdAfewr" "www.google.com"
+size
+pop_back
+pop_back
+print
+size
+clear
+empty
+print
+front
+clear
+front
+find "TeStEr 1232 123ASd"
+print
+print
+empty
+empty
+clear
+push_front "12mAJDUTASDsd" "https://sites.google.com/site/emmfis/teaching/math-211"
+clear
+push_back "asDFASFdZXc" "www.instagram.com"
+push_back "tEsTeR 1232 123aSD" "www.gmail.com"
+size
+pop_front
+clear
+pop_front
+back
+front
+print
+find "ASDZ XcQw     eaSdQW  D aZx qWE"
+find "FdaHUOfdHuiafdsUHiOaSDFuiofdSr12341123"
+pop_front
+pop_front
+empty
+find "TEsla | CHaRGiNg"
+print
+size
+pop_back
+empty
+pop_back
+back
+clear
+push_front "SadfzxczxcASdQwe" "www.uwaterloo.ca"
+push_front "Asdz xCqw     EASdqw  d AZX QWe" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+front
+pop_back
+front
+size
+push_front "ASdf123 12 asd Sad" "www.youtube.com"
+empty
+pop_back
+pop_front
+find "HUfIoUhFADsHuiFasDf asDF"
+back
+pop_front
+front
+find "aSdf123 12 asd sad"
+pop_back
+find "saDFzxCzXcAsDQwE"
+clear
+empty
+push_back "teSTER 1232 123AsD" "www.gmail.com"
+print
+print
+pop_front
+pop_back
+back
+print
+size
+pop_front
+pop_front
+front
+size
+front
+pop_back
+back
+pop_back
+pop_back
+print
+push_front "fdahUOFDHuiAfDsuhIOAsDfuiOFdsR12341123" "www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23"
+pop_front
+clear
+size
+size
+pop_back
+back
+print
+size
+push_back "the oFfiCIaL tesLa SHop | TesLa" "https://shop.tesla.com/?tesref=true"
+clear
+pop_front
+empty
+back
+print
+pop_back
+clear
+size
+clear
+front
+find "SaDFZxczxcASDqWE"
+push_front "tHe OFFicIal tESla shOp | teSLA" "https://shop.tesla.com/?tesref=true"
+print
+clear
+push_front "faXcsddwe" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+empty
+find "AsdZ XCqW     EASdqW  d AZX QWE"
+pop_front
+push_front "Testa asD zzXc" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+pop_back
+front
+push_front "faxCsDdwe" "https://www.google.com/search?source=hp&ei=TDgjYN2nOasdfPo_iyyA8&iflsig=AINFCbYAAAAAYCNGXCbhlpqgsqp23z7M5MxJP7tO2WB1&q=asdz&oq=afsdfgs_lcp=CgZwc3ktYWIQAzICCAAyBwgAELEDEAoyBQguELEDMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgQIABAKMgcIABDJAxAKOggIABDqAhCPAToICAAQsQMQgwE6CAguELEDEIMBOgIILjoLCC4QsQMQxwEQowI6CAguEMcBEKMCOgUIABCxAzoOCC4QsQMQgwEQxwEQowI6CggAELEDEIMBEsdfsdfIAKWO8NYOkhaAFwAHgAgAFQiAGvApIBATSYAQCgAQGqAQdnd3Mtd2l6sAEK&sdfsdfed=0ahUKEwjd_c_Olt7uAhUsMsdfsdfxcvk&uact=5"
+back
+push_front "xXcvSdAfEWR" "www.google.com"
+back
+pop_front
+clear
+push_back "DASXCzX" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+find "hUfiouHfadSHuIfAsdf aSDf"
+back
+pop_back
+push_back "HUFiOuhFADshuiFaSdf asdF" "www.facebook.com"
+back
+push_front "Asdf123 12 Asd sAD" "www.youtube.com"
+push_back "THE officIAL tEsLa ShOP | tEsLA" "https://shop.tesla.com/?tesref=true"
+clear
+size
+clear
+front
+pop_front
+clear
+push_front "tESta Asd zZXC" "https://www.google.com/search?ei=Vzgjdfg5NoP6aGguAE&q=asdzas&oq=asdzas&gs_lcp=CgZwc3ktYWIQAzIKCC4QsQMQChCTAjIECAAQCjIECC4QCjIECC4QCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECC4QCjIECAAQCjoHCAAQsAMQQzoHCAAQRxCwAzoNCAAQsQMQgwEQsQMQQzoECAAQQzoKCAAQsQMQgwEQQzoHCAAQsQMQCjoHCAAQyQMQCjoHCC4QsQMQCjoFCC4QsQM6CggAELEDEIMBEApQ4ocBWLGIAWCrkgFoAXACeACAAsdfsdfBM5gBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=psy-ab&ved=0ahUKEwjnm-bTlt7uAhX3FFkFHesdfsdfsdfsdfact=5"
+size
+empty
+size
+find "USe($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:l?<>?"
+pop_front
+print
+push_front "dASxczX" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+clear
+size
+find "FaxcSddWE"
+print
+pop_front
+find "AsDfasFDZxc"
+back
+front
+find "12MajduTaSdsD"
+find "TESTEr 1232 123ASd"
+push_back "DAsXczX" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+print
+push_front "ASDZ XcQW     easdQw  D aZX QWE" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+back
+find "faxCsdDWE"
+front
+front
+find "TESta ASD ZZXC"
+pop_front
+find "use($%^#$%@#$%^%&$%^&&*(&*^)(!@#@#$%!$%!@#!%$%&$%^*)()_+{}{}:L?<>?"
+push_front "xxcvSDaFEWR" "www.google.com"
+push_back "DAsXczX" "https://github.com/ECE-2024/ECE-250-Test-Cases/pull/6"
+pop_front
+pop_back
+clear
+size
+front
+print
+back
+back
+clear
+clear
+clear
+push_back "SADfzXcZxCASDQWe" "www.uwaterloo.ca"
+back
+front
+push_front "ASdfaSfDzXc" "www.instagram.com"
+push_back "ASDZ XcQW     EaSdqW  d azx qWE" "https://www.google.com/search?ei=azgjYNqPH8sdfsdfuD2As&q=testing+123&oq=testing+123&gs_lcp=CgZwc3ktYWIQAzIFCC4QkwIyAggAMgIILjICCAAyAggAMgIIADICCAAyAggAMgIILjICCAA6DgguEMcBEK8BEJECEJMCOgUIABCRAjoICAAQsQMQgwE6CAguELEDEIMBOgsILhCxAxDHARCjAjoLCC4QxwEQrwEQkQI6DgguELEDEIMBEMcBEKMCOgUILhCxAzoFCAAQsQM6BAgAEAM6BQgAEMkDsdfsdfRCvAVDBT1ioWWCSX2gAcAB4AIABXogByAeSAQIxMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&vedxcvxccvAhXGEVkFHdflALsQ4dUDxcvxcvact=5"
+size
+pop_back
+empty
+pop_back
+size
+pop_front
+print
+find "sAdFZxcZxCASDQwe"
+back
+clear
+empty
+empty
+find "TEsta asD ZzXc"
+pop_front
+clear
+pop_front
+push_front "FDAHuOFDHUIAfdSuHioAsdFUIOfDsR12341123" "www.asdzxcasdasd.com/asdasdzxcasdasd%20%123sasdf23"
+pop_back
+front
+print
+front
+pop_back
+print
+print
+empty
+pop_front
+pop_back
+clear
+push_back "xxCVSDAFewR" "www.google.com"
+clear
+print
+pop_back
+exit
