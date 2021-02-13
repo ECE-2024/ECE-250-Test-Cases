@@ -7,9 +7,11 @@ help() {
   echo "./test.sh <WATID> [-s <SERVER NUMBER (1 OR 2)>] [-m <EXECUTABLE NAME (IF USING MAKEFILE)>] [-t <TEST NUMBER (01, 02, ...)>] [-v (FOR VALGRIND)]"
   echo "EXAMPLES:"
   echo "./test.sh jsmith"
-  echo "./run.sh jsmith -s 2"
-  echo "./run.sh jsmith -m maindriver"
-  echo "./run.sh jsmith -t 01"
+  echo "./test.sh jsmith -s 2"
+  echo "./test.sh jsmith -m maindriver"
+  echo "./test.sh jsmith -t 01"
+	echo "./test.sh jsmith -v"
+	echo "./test.sh jsmith -s 2 -m maindriver -t 01 -v"
   echo
 	exit -1	
 }
