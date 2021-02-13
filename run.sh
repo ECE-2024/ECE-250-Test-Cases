@@ -4,12 +4,13 @@
 help() {
   echo
   echo "FORMATTING:"
-  echo "./run.sh <WATID> [-s <SERVER NUMBER (1 OR 2)>] [-m <EXECUTABLE NAME (IF USING MAKEFILE)>]"
+  echo "./run.sh <WATID> [-s <SERVER NUMBER (1 OR 2)>] [-m <EXECUTABLE NAME (IF USING MAKEFILE)>] [-d (FOR DEBUGGING WITH GDB)]"
   echo "EXAMPLES:"
   echo "./run.sh j1smith"
   echo "./run.sh j1smith -s 2"
   echo "./run.sh j1smith -m maindriver"
-  echo "./run.sh j1smith -s 2 -m maindriver"
+  echo "./run.sh j1smith -d"
+  echo "./run.sh j1smith -s 2 -m maindriver -d"
   echo
 	exit -1	
 }
@@ -27,11 +28,12 @@ fi
 # Set variables
 SERVER="$WATID@eceubuntu1.uwaterloo.ca"
 DIRECTORY="/home/$WATID/projects/${PWD##*/}/source"
-BUILD_COMMAND="g++ -std=c++11 *.cpp -o a.out && echo 'SOURCE CODE COMPILED' || echo 'ERROR: COMPILATION FAILED'"
+BUILD_COMMAND="g++ -g -std=c++11 *.cpp -o a.out && echo 'SOURCE CODE COMPILED' || echo 'ERROR: COMPILATION FAILED'"
 EXECUTABLE="a.out"
+GDB_COMMAND=""
 
 # Update variables with optional arguments
-while getopts "s:m:" opt; do
+while getopts "s:m:d" opt; do
   case "${opt}" in
     # Server Number
     s)
@@ -47,6 +49,10 @@ while getopts "s:m:" opt; do
     m)
       BUILD_COMMAND="make && echo 'SOURCE CODE COMPILED' || echo 'ERROR: COMPILATION FAILED'"
       EXECUTABLE=${OPTARG}
+      ;;
+    # GDB Debugger
+    d)
+      GDB_COMMAND="gdb "
       ;;
     :)
       help
@@ -85,7 +91,7 @@ exit;
 "
 
 # Compile source code and run executable
-RUN_COMMAND="echo && echo 'PROGRAM STARTED' && ./$EXECUTABLE && echo 'PROGRAM FINISHED'"
+RUN_COMMAND="echo && echo 'PROGRAM STARTED' && $GDB_COMMAND./$EXECUTABLE && echo 'PROGRAM FINISHED'"
 ssh -i ece_key $SERVER "
 echo;
 cd $DIRECTORY;
