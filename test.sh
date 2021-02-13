@@ -29,7 +29,7 @@ fi
 # Set variables
 SERVER="$WATID@eceubuntu1.uwaterloo.ca"
 DIRECTORY="/home/$WATID/projects/${PWD##*/}/source"
-BUILD_COMMAND="g++ -std=c++11 *.cpp -o a.out"
+BUILD_COMMAND="g++ -std=c++11 *.cpp -o a.out && echo 'SOURCE CODE COMPILED' || echo 'ERROR: COMPILATION FAILED'"
 EXECUTABLE="a.out"
 TEST_COMMAND=""
 VALGRIND_COMMAND=""
@@ -54,17 +54,13 @@ while getopts "s:m:t:v" opt; do
 					TEST_COMMAND=${TEST_COMMAND//$EXECUTABLE/${OPTARG}}
 			fi
 			
-			BUILD_COMMAND="make"
+			BUILD_COMMAND="make && echo 'SOURCE CODE COMPILED' || echo 'ERROR: COMPILATION FAILED'"
 			EXECUTABLE=${OPTARG}
       ;;
 		# Test Number
 		t)
-			TEST_COMMAND="
-			echo
-			echo 'TEST ${OPTARG} STARTED';
-			$VALGRIND_COMMAND./$EXECUTABLE < test${OPTARG}.in | diff test${OPTARG}.out -;
-			echo 'TEST ${OPTARG} FINISHED';
-			"
+			RUN_COMMAND="echo && echo 'TEST ${OPTARG} STARTED' && $VALGRIND_COMMAND./$EXECUTABLE < test${OPTARG}.in | diff test${OPTARG}.out - && echo 'TEST ${OPTARG} FINISHED'"
+			TEST_COMMAND="test -e $EXECUTABLE && $RUN_COMMAND || echo && echo 'ERROR: EXECUTABLE $EXECUTABLE NOT FOUND';"
 			;;
 		# Should use Valgrind
 		v)
@@ -90,12 +86,8 @@ if [ -z "$TEST_COMMAND" ]
 	then
 		for test in $(ls | grep "test.*..in" | tr -d .in)
 			do
-				TEST_COMMAND+="
-				echo;
-				echo 'TEST ${test//test/} STARTED';
-				$VALGRIND_COMMAND./$EXECUTABLE < $test.in | diff $test.out -;
-				echo 'TEST ${test//test/} FINISHED';
-				"
+				RUN_COMMAND="echo && echo 'TEST ${test//test/} STARTED' && $VALGRIND_COMMAND./$EXECUTABLE < $test.in | diff $test.out - && echo 'TEST ${test//test/} FINISHED'"
+				TEST_COMMAND+="test -e $EXECUTABLE && $RUN_COMMAND || echo && echo 'ERROR: EXECUTABLE $EXECUTABLE NOT FOUND';"
 			done
 fi
 
@@ -131,7 +123,6 @@ echo;
 cd $DIRECTORY;
 echo 'COMPILING SOURCE CODE...';
 $BUILD_COMMAND;
-echo 'SOURCE CODE COMPILED';
 $TEST_COMMAND
 exit;
 "

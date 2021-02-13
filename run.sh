@@ -27,7 +27,7 @@ fi
 # Set variables
 SERVER="$WATID@eceubuntu1.uwaterloo.ca"
 DIRECTORY="/home/$WATID/projects/${PWD##*/}/source"
-BUILD_COMMAND="g++ -std=c++11 *.cpp -o a.out"
+BUILD_COMMAND="g++ -std=c++11 *.cpp -o a.out && echo 'SOURCE CODE COMPILED' || echo 'ERROR: COMPILATION FAILED'"
 EXECUTABLE="a.out"
 
 # Update variables with optional arguments
@@ -45,7 +45,7 @@ while getopts "s:m:" opt; do
       ;;
     # Executable Name
     m)
-      BUILD_COMMAND="make"
+      BUILD_COMMAND="make && echo 'SOURCE CODE COMPILED' || echo 'ERROR: COMPILATION FAILED'"
       EXECUTABLE=${OPTARG}
       ;;
     :)
@@ -85,15 +85,12 @@ exit;
 "
 
 # Compile source code and run executable
+RUN_COMMAND="echo && echo 'PROGRAM STARTED' && ./$EXECUTABLE && echo 'PROGRAM FINISHED'"
 ssh -i ece_key $SERVER "
 echo;
 cd $DIRECTORY;
 echo 'COMPILING SOURCE CODE...';
 $BUILD_COMMAND;
-echo 'SOURCE CODE COMPILED';
-echo;
-echo 'PROGRAM STARTED';
-./$EXECUTABLE;
-echo 'PROGRAM FINISHED';
+test -e $EXECUTABLE && $RUN_COMMAND || echo && echo 'ERROR: EXECUTABLE $EXECUTABLE NOT FOUND';
 exit;
 "
