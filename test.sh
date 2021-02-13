@@ -63,7 +63,7 @@ while getopts "s:m:t:v" opt; do
 			RUN_COMMAND="echo && echo 'TEST $TEST_NUMBER STARTED' && $VALGRIND_COMMAND./$EXECUTABLE < test$TEST_NUMBER.in | diff test$TEST_NUMBER.out - && echo 'TEST $TEST_NUMBER FINISHED'"
 			TEST_COMMAND+="test -e $EXECUTABLE && $RUN_COMMAND || echo && echo 'ERROR: EXECUTABLE $EXECUTABLE NOT FOUND';"
 			;;
-		# Should use Valgrind
+		# Valgrind
 		v)
 			VALGRIND_COMMAND="valgrind --leak-check=full "
 
