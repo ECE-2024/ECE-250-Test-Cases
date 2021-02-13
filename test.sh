@@ -59,8 +59,9 @@ while getopts "s:m:t:v" opt; do
       ;;
 		# Test Number
 		t)
-			RUN_COMMAND="echo && echo 'TEST ${OPTARG} STARTED' && $VALGRIND_COMMAND./$EXECUTABLE < test${OPTARG}.in | diff test${OPTARG}.out - && echo 'TEST ${OPTARG} FINISHED'"
-			TEST_COMMAND="test -e $EXECUTABLE && $RUN_COMMAND || echo && echo 'ERROR: EXECUTABLE $EXECUTABLE NOT FOUND';"
+			TEST_NUMBER=${OPTARG}
+			RUN_COMMAND="echo && echo 'TEST $TEST_NUMBER STARTED' && $VALGRIND_COMMAND./$EXECUTABLE < test$TEST_NUMBER.in | diff test$TEST_NUMBER.out - && echo 'TEST $TEST_NUMBER FINISHED'"
+			TEST_COMMAND+="test -e $EXECUTABLE && $RUN_COMMAND || echo && echo 'ERROR: EXECUTABLE $EXECUTABLE NOT FOUND';"
 			;;
 		# Should use Valgrind
 		v)
@@ -86,7 +87,8 @@ if [ -z "$TEST_COMMAND" ]
 	then
 		for test in $(ls | grep "test.*..in" | tr -d .in)
 			do
-				RUN_COMMAND="echo && echo 'TEST ${test//test/} STARTED' && $VALGRIND_COMMAND./$EXECUTABLE < $test.in | diff $test.out - && echo 'TEST ${test//test/} FINISHED'"
+				TEST_NUMBER=${test//test/}
+				RUN_COMMAND="echo && echo 'TEST $TEST_NUMBER STARTED' && $VALGRIND_COMMAND./$EXECUTABLE < test$TEST_NUMBER.in | diff test$TEST_NUMBER.out - && echo 'TEST $TEST_NUMBER FINISHED'"
 				TEST_COMMAND+="test -e $EXECUTABLE && $RUN_COMMAND || echo && echo 'ERROR: EXECUTABLE $EXECUTABLE NOT FOUND';"
 			done
 fi
