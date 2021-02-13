@@ -9,7 +9,6 @@ help() {
   echo "./run.sh jsmith"
   echo "./run.sh jsmith -s 2"
   echo "./run.sh jsmith -m maindriver"
-  echo "./run.sh jsmith -s 2 -m maindriver"
   echo
 	exit -1	
 }
