@@ -19,16 +19,24 @@ This document covers how to run C++ code remotely on the ECE Ubuntu Servers
 1. Run the command `./run.sh YOUR_WATID` in your terminal, replacing the capital words with your own values, to upload, compile, and run your code on the server. If permission to run run.sh is denied, run the command 'chmod +x start.sh' in your terminal
 ### Example usages
 `./run.sh j1smith`
+
 `./run.sh j1smith -s 2` (runs on ece ubuntu 2 instead of 1)
+
 `./run.sh j1smith -m maindriver` (uses Makefile and runs the executable specified)
+
 `./run.sh j1smith -s 2 -m maindriver`
 
 ## Testing your code with test cases
 1. Run the command `./test.sh YOUR_WATID` in your terminal, replacing the capital words with your own values, to upload, compile, and test your code on the server. If permission to run start.sh is denied, run the command 'chmod +x test.sh' in your terminal
 ### Example usages
 `./test.sh j1smith`
+
 `./test.sh j1smith -s 2` (runs on ece ubuntu 2 instead of 1)
+
 `./test.sh j1smith -m maindriver` (uses the Makefile to generate an executable and runs the executable specified)
+
 `./test.sh j1smith -t 03`  (runs the specified test number instead of all the test cases)
+
 `./test.sh j1smith -v` (uses valgrind for memory leak detection)
+
 `./test.sh j1smith -s 2 -m maindriver -t 03 -v`
