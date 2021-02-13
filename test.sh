@@ -6,12 +6,12 @@ help() {
   echo "FORMATTING:"
   echo "./test.sh <WATID> [-s <SERVER NUMBER (1 OR 2)>] [-m <EXECUTABLE NAME (IF USING MAKEFILE)>] [-t <TEST NUMBER (01, 02, ...)>] [-v (FOR VALGRIND)]"
   echo "EXAMPLES:"
-  echo "./test.sh jsmith"
-  echo "./test.sh jsmith -s 2"
-  echo "./test.sh jsmith -m maindriver"
-  echo "./test.sh jsmith -t 01"
-	echo "./test.sh jsmith -v"
-	echo "./test.sh jsmith -s 2 -m maindriver -t 01 -v"
+  echo "./test.sh j1smith"
+  echo "./test.sh j1smith -s 2"
+  echo "./test.sh j1smith -m maindriver"
+  echo "./test.sh j1smith -t 01"
+	echo "./test.sh j1smith -v"
+	echo "./test.sh j1smith -s 2 -m maindriver -t 01 -v"
   echo
 	exit -1	
 }
@@ -95,7 +95,7 @@ if [ -z "$TEST_COMMAND" ]
 			do
 				TEST_COMMAND+="
 				echo;
-				echo 'TEST $test STARTED';
+				echo 'TEST ${test//test/} STARTED';
 				$VALGRIND_COMMAND./$EXECUTABLE < $test.in | diff $test.out -;
 				echo 'TEST $test FINISHED';
 				"

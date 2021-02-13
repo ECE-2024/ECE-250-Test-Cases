@@ -4,12 +4,12 @@
 help() {
   echo
   echo "FORMATTING:"
-  echo "$0 <WATID> [-s <SERVER NUMBER (1 OR 2)>] [-m <EXECUTABLE NAME (IF USING MAKEFILE)>]"
+  echo "./run.sh <WATID> [-s <SERVER NUMBER (1 OR 2)>] [-m <EXECUTABLE NAME (IF USING MAKEFILE)>]"
   echo "EXAMPLES:"
-  echo "./run.sh jsmith"
-  echo "./run.sh jsmith -s 2"
-  echo "./run.sh jsmith -m maindriver"
-  echo "./run.sh jsmith -s 2 -m maindriver"
+  echo "./run.sh j1smith"
+  echo "./run.sh j1smith -s 2"
+  echo "./run.sh j1smith -m maindriver"
+  echo "./run.sh j1smith -s 2 -m maindriver"
   echo
 	exit -1	
 }
