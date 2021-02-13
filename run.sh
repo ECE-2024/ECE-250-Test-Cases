@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Formating information and examples
+# Formatting information and examples
 help() {
   echo
   echo "FORMATTING:"
@@ -17,7 +17,7 @@ help() {
 # Check if WATID is provided
 if [ -z "$1" ]
 	then
-		echo "NO WATID SPECIFIED (ie. j1smith)."
+		echo "ERROR: NO WATID SPECIFIED"
 		help
 	else
     WATID=$1
@@ -25,10 +25,8 @@ if [ -z "$1" ]
 fi
 
 # Set variables
-SERVER_NUM="1"
-SERVER="$WATID@eceubuntu$SERVER_NUM.uwaterloo.ca"
-CURRENT_FOLDER=${PWD##*/}
-DIRECTORY="/home/$WATID/projects/$CURRENT_FOLDER/run"
+SERVER="$WATID@eceubuntu1.uwaterloo.ca"
+DIRECTORY="/home/$WATID/projects/${PWD##*/}/source"
 BUILD_COMMAND="g++ -std=c++11 *.cpp -o a.out"
 EXECUTABLE="a.out"
 
@@ -39,8 +37,7 @@ while getopts "s:m:" opt; do
     s)
       if [ ${OPTARG} == "1" ] || [ ${OPTARG} == "2" ] 
         then
-          SERVER_NUM=${OPTARG}
-          SERVER="$WATID@eceubuntu$SERVER_NUM.uwaterloo.ca"
+          SERVER="$WATID@eceubuntu${OPTARG}.uwaterloo.ca"
         else
           echo "ERROR: INVALID SERVER NUMBER $OPTARG. MUST BE 1 OR 2"
           help

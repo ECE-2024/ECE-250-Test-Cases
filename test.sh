@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Formating information and examples
+# Formatting information and examples
 help() {
   echo
   echo "FORMATTING:"
@@ -19,7 +19,7 @@ help() {
 # Check if WATID is provided
 if [ -z "$1" ]
 	then
-		echo "NO WATID SPECIFIED (ie. j1smith)."
+		echo "ERROR: NO WATID SPECIFIED"
 		help
 	else
     WATID=$1
@@ -27,10 +27,8 @@ if [ -z "$1" ]
 fi
 
 # Set variables
-SERVER_NUM="1"
-SERVER="$WATID@eceubuntu$SERVER_NUM.uwaterloo.ca"
-CURRENT_FOLDER=${PWD##*/}
-DIRECTORY="/home/$WATID/projects/$CURRENT_FOLDER/run"
+SERVER="$WATID@eceubuntu1.uwaterloo.ca"
+DIRECTORY="/home/$WATID/projects/${PWD##*/}/source"
 BUILD_COMMAND="g++ -std=c++11 *.cpp -o a.out"
 EXECUTABLE="a.out"
 TEST_COMMAND=""
@@ -43,8 +41,7 @@ while getopts "s:m:t:v" opt; do
     s)
       if [ ${OPTARG} == "1" ] || [ ${OPTARG} == "2" ] 
         then
-          SERVER_NUM=${OPTARG}
-          SERVER="$WATID@eceubuntu$SERVER_NUM.uwaterloo.ca"
+          SERVER="$WATID@eceubuntu${OPTARG}.uwaterloo.ca"
         else
           echo "ERROR: INVALID SERVER NUMBER $OPTARG. MUST BE 1 OR 2"
           help
@@ -91,13 +88,13 @@ shift $((OPTIND-1))
 # If no specific test case is specified, run all test cases
 if [ -z "$TEST_COMMAND" ]
 	then
-		for test in $(ls | grep "test.*.in" | tr -d .in)
+		for test in $(ls | grep "test.*..in" | tr -d .in)
 			do
 				TEST_COMMAND+="
 				echo;
 				echo 'TEST ${test//test/} STARTED';
 				$VALGRIND_COMMAND./$EXECUTABLE < $test.in | diff $test.out -;
-				echo 'TEST $test FINISHED';
+				echo 'TEST ${test//test/} FINISHED';
 				"
 			done
 fi

@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# Formating information and examples
+# Formatting information and examples
 help(){
 	echo
 	echo "FORMATTING:"
 	echo "./setup.sh <WATID> [-s <SERVER NUMBER (1 OR 2)>]"	
 	echo "EXAMPLES:"
 	echo "./setup.sh j1smith"
-	echo "EXITING..."
+	echo "./setup.sh j1smith -s 2"
 	echo
 	exit -1	
 }
@@ -15,7 +15,7 @@ help(){
 # Check if WATID is provided
 if [ -z "$1" ]
 	then
-		echo "NO WATID SPECIFIED (ie. j1smith)."
+		echo "ERROR: NO WATID SPECIFIED"
 		help
 	else
     WATID=$1
@@ -23,8 +23,7 @@ if [ -z "$1" ]
 fi
 
 # Set variables
-SERVER_NUM="1"
-SERVER="$WATID@eceubuntu$SERVER_NUM.uwaterloo.ca"
+SERVER="$WATID@eceubuntu1.uwaterloo.ca"
 
 # Update variables with optional arguments
 while getopts "s:" opt; do
@@ -33,8 +32,7 @@ while getopts "s:" opt; do
     s)
       if [ ${OPTARG} == "1" ] || [ ${OPTARG} == "2" ] 
         then
-          SERVER_NUM=${OPTARG}
-          SERVER="$WATID@eceubuntu$SERVER_NUM.uwaterloo.ca"
+          SERVER="$WATID@eceubuntu${OPTARG}.uwaterloo.ca"
         else
           echo "ERROR: INVALID SERVER NUMBER $OPTARG. MUST BE 1 OR 2"
           help
