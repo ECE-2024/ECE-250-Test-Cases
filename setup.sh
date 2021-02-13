@@ -27,7 +27,7 @@ SERVER_NUM="1"
 SERVER="$WATID@eceubuntu$SERVER_NUM.uwaterloo.ca"
 
 # Update variables with optional arguments
-while getopts "s:m:" opt; do
+while getopts "s:" opt; do
   case "${opt}" in
     # Server Number
     s)
