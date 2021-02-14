@@ -91,9 +91,9 @@ To resume running the program normally until another breakpoint is hit, use the 
 - You can replace `run`, `list`, `next`, `step`, and `continue` with `r`, `l`, `n`, `s`, and `c` respectively.
 
 ## Examining and setting data
-To view the value of a variable on the call stack, use the command `print <VARIABLE_NAME>`. Examples: `print position`.
+To view a variable on the call stack, use the command `call <VARIABLE_NAME>`. If the variable is an object, you can access the properties on the object. Examples: `call position`, `call car.license_number`, `call person.first_name`, `call node->get_next()->get_name()`.
 
-To set the value of a variable, use the command `set <VARIABLE_NAME>=<VALUE>`. Examples: `set position=4`.
+To set the value of primitive variables (numbers, characters, booleans), use the command `call <VARIABLE_NAME> = <VALUE>`. Examples: `call position = 4`.
 
-### Shortcuts
-- You can replace `print` with `p`.
+### Tips
+- To set the value of a string, use the command `call <STRING_VARIABLE>.assign("<TEXT>")`. Examples: `call lastname.assign("Smith")`.
