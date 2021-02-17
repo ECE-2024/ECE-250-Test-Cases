@@ -1,4 +1,4 @@
-# Running, Debugging, and Testing C++ code remotely on ECE Ubuntu Servers through the terminal
+# Running, Debugging, and Testing code remotely via terminal
 This document covers how to run, debug, and test C++ code remotely on the ECE Ubuntu Servers via a terminal.
 
 ## Requirements
