@@ -8,7 +8,10 @@ To add test cases for a project, you will need to create a new branch and add yo
 To remotely debug your code on the ECE Ubuntu servers, follow this guide https://github.com/ECE-2024/ECE-250-Test-Cases/blob/main/visual_studio.md
 
 # Remote running and testing via terminal
-To remotely run and test your code on the ECE Ubuntu servers, follow this guide https://github.com/ECE-2024/ECE-250-Test-Cases/blob/main/terminal.md
+To remotely run, debug, and test your code on the ECE Ubuntu servers, follow this guide https://github.com/ECE-2024/ECE-250-Test-Cases/blob/main/terminal.md
 
-# Remote running and testing with Valgrind
-To remotely run and test your code on the ECE Ubuntu servers with valgrind, follow this guide https://github.com/ECE-2024/ECE-250-Test-Cases/blob/main/Testing.md
+# GDB Debugging
+To use the GDB Debugger on the ECE Ubuntu servers, follow this guide https://github.com/ECE-2024/ECE-250-Test-Cases/blob/main/terminal.md
+
+# Testing documentation
+For detailed documentation on testing, https://github.com/ECE-2024/ECE-250-Test-Cases/blob/main/Testing.md
