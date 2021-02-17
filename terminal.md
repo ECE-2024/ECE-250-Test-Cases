@@ -36,7 +36,7 @@ Run the command `./test.sh <WATID> [-s <SERVER NUMBER (1 OR 2)>] [-m <EXECUTABLE
 `./test.sh j1smith -s 2 -m maindriver -t 01 -v`  
 
 ## Zipping files to create archive file
-Run the command `./zip.sh <WATID> <PROJECT_NUMBER> [-s <SERVER NUMBER (1 OR 2)>]` in your terminal to upload, zip, and download an archive that contains the .cpp, .h, Makefile, and .pdf files. The format of the archive file will be similar to `j1smith_p0.tar.gz`, except with the watid and project number specified. If permission to run zip.sh is denied, run the command 'chmod +x zip.sh' in your terminal.
+Run the command `./zip.sh <WATID> <PROJECT_NUMBER> [-s <SERVER NUMBER (1 OR 2)>]` in your terminal to upload, zip, and download an archive that contains the .cpp, .h, Makefile, and .pdf files. The format of the archive file will be similar to `j1smith_p0.tar.gz`, except with the watid and project number specified. Please check that the archive file generated contains the correct files (you can unzip it with `tar -xf <ARCHIVE_FILE>`). If permission to run zip.sh is denied, run the command 'chmod +x zip.sh' in your terminal.
 ### Example usages
 `./zip.sh j1smith 0`  
 `./zip.sh j1smith 0 -s 2` (runs on ece ubuntu 2 instead of 1)  
