@@ -22,7 +22,7 @@ Run the command `./run.sh <WATID> [-s <SERVER NUMBER (1 OR 2)>] [-m <EXECUTABLE 
 `./run.sh j1smith`  
 `./run.sh j1smith -s 2` (runs on ece ubuntu 2 instead of 1)  
 `./run.sh j1smith -m maindriver` (uses the Makefile to generate an executable and runs the executable specified instead of a.out)  
-`./run.sh j1smith -d` (runs in debug mode using the GDB debugger)  
+`./run.sh j1smith -d` (runs in debug mode using the GDB debugger. Check out the [GDB Debugging Guide](https://github.com/ECE-2024/ECE-250-Test-Cases/edit/main/terminal.md) for more information on how to use it)  
 `./run.sh j1smith -s 2 -m maindriver -d`  
 
 ## Testing your code with test cases
