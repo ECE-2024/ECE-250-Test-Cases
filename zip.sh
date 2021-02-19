@@ -89,5 +89,6 @@ exit;
 # Copy archive file to the current directory
 echo
 echo "COPYING ARCHIVE FILE TO CURRENT DIRECTORY..."
+rm -f $ARCHIVE_NAME
 scp -i ece_key $SERVER:$DIRECTORY/$ARCHIVE_NAME $PWD
 echo "ARCHIVE FILE COPIED TO CURRENT DIRECTORY"
