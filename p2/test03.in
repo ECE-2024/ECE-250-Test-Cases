@@ -1,0 +1,29 @@
+i Capitalfirst
+i capitallasT
+s Capitalfirst
+s capitallasT
+e Capitalfirst
+e capitallasT
+i !firstchar
+i num0r1c
+i lastchar@
+s #firstchar
+s num2r3c
+s lastchar$
+e %firstchar
+e num4r5c
+e lastchar^
+size
+s &
+i (
+e )
+s 6
+i 7
+e 8
+s A
+i B
+e C
+s ~
+e 9
+size
+exit

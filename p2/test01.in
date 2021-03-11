@@ -1,0 +1,17 @@
+i hello
+i help
+i he
+s he
+print
+autocomplete h*
+autocomplete he*
+autocomplete hel*
+autocomplete help*
+e he
+print
+e help
+print
+e hello
+print
+size
+exit
