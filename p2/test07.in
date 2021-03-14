@@ -1,0 +1,16 @@
+autocomplete *
+i h
+autocomplete *
+i he
+autocomplete *
+autocomplete h*
+autocomplete i*
+clear
+i testera
+i testerb
+e tester
+e test
+e testerb
+print
+e tester
+exit
