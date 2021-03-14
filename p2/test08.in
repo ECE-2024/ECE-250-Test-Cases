@@ -1,0 +1,17 @@
+s a
+s !!
+i a
+e a
+s a
+i a
+i ab
+i abc
+print
+e ab
+s ab
+e a
+s abc
+clear
+s abc
+size
+exit
