@@ -1,0 +1,15 @@
+size
+clear
+clear
+size
+empty
+i test
+size
+empty
+e test
+print
+i test
+print
+clear
+print
+exit
