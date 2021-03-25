@@ -18,18 +18,19 @@ After, run
 python3 TestCaseGenerator.py
 ```
 
-The python file will test and generate test cases in a new folder called testcases and 
+The python file will test and generate test cases in a new folder called testcases and create
 multiple different files.
 
 test#.in - input of testcase  
 test#.out - expected output of testcase  
+test#.debug - a file with expected output and program input on the same line
 \#.o - your program's output  
 test#.failed - differences between your output and expected output
 
 where # is the test case number.
 
 The program will not delete the previous testcases. To run this generator again,
-please first run 
+please run 
 
 ```bash
 rm -r testcases

@@ -16,18 +16,17 @@ alpha = list("abcdefghijklmnopqrstuvwxyz")
 
 
 def illegal_gen():
-    w = []
     a = choice(words)
     if len(a) != 1:
-        w.append(a[:randint(0, len(a)-1)])
+        wd = list(a[:randint(0, len(a)-1)])
     else:
-        w.append(a)
-    w.append(choice(illegal))
+        wd = list(a)
+    wd.append(choice(illegal))
 
     for i in range(randint(1, 100)):
-        w.append(choice(choice([alpha, illegal])))
-
-    return "".join(w)
+        wd.append(choice(choice([alpha, illegal])))
+    shuffle(wd)
+    return "".join(wd)
 
 
 if os.path.exists(TEST_DIR):
@@ -42,6 +41,7 @@ print("Preparing Test Cases")
 for i in range(NUM_START, NUM_START+TEST_CASES):
     inp = open(TEST_DIR + "/test" + str(i) + ".in", "w")
     out = open(TEST_DIR + "/test" + str(i) + ".out", "w")
+    debug = open(TEST_DIR + "/test" + str(i) + ".debug", "w")
 
     current_words = set()
 
@@ -58,13 +58,16 @@ for i in range(NUM_START, NUM_START+TEST_CASES):
 
                 if w in current_words:
                     out.write("failure\n")
+                    debug.write("failure #i {0}\n".format(w))
                 else:
                     out.write("success\n")
+                    debug.write("success #i {0}\n".format(w))
                     current_words.add(w)
 
             else:
                 w = illegal_gen()
                 out.write("illegal argument\n")
+                debug.write("illegal argument #i {0}\n".format(w))
 
             inp.write("i {0}\n".format(w))
 
@@ -80,15 +83,17 @@ for i in range(NUM_START, NUM_START+TEST_CASES):
                     if len(w) != 1:
                         w = w[:randint(1, len(w)-1)]
 
-
                 if w in current_words:
                     out.write("success\n")
+                    debug.write("success #e {0}\n".format(w))
                     current_words.remove(w)
                 else:
+                    debug.write("failure #e {0}\n".format(w))
                     out.write("failure\n")
 
             else:
                 w = illegal_gen()
+                debug.write("illegal argument #e {0}\n".format(w))
                 out.write("illegal argument\n")
 
             inp.write("e {0}\n".format(w))
@@ -99,12 +104,15 @@ for i in range(NUM_START, NUM_START+TEST_CASES):
 
                 if w in current_words:
                     out.write("found " + w + "\n")
+                    debug.write("found {0} #s {0}\n".format(w))
                 else:
+                    debug.write("not found #s {0}\n".format(w))
                     out.write("not found\n")
 
             else:
                 w = illegal_gen()
                 out.write("illegal argument\n")
+                debug.write("illegal argument #s {0}\n".format(w))
 
             inp.write("s {0}\n".format(w))
 
@@ -133,26 +141,32 @@ for i in range(NUM_START, NUM_START+TEST_CASES):
                     found_words.append(j)
 
             if len(found_words) != 0:
+                debug.write("{0} #autocomplete {1}*\n".format(" ".join(sorted(found_words)), w))
                 out.write(" ".join(sorted(found_words))+"\n")
 
         elif cmd in [10]:
             inp.write("clear\n")
             current_words = set()
             out.write("success\n")
+            debug.write("success #clear\n")
 
         inp.write("size\n")
         out.write("number of words is {0}\n".format(len(current_words)))
+        debug.write("number of words is {0} #size\n".format(len(current_words)))
 
         inp.write("empty\n")
         out.write("empty {0}\n".format(1 if len(current_words) == 0 else 0))
+        debug.write("empty {0} #empty\n".format(1 if len(current_words) == 0 else 0))
 
         inp.write("print\n")
         if len(current_words) != 0:
             out.write(" ".join(sorted(current_words))+"\n")
+            debug.write("{0} #print\n".format(" ".join(sorted(current_words))))
 
     inp.write("exit\n")
     inp.close()
     out.close()
+    debug.close()
 
     print("Running test case " + str(i))
     output = subprocess.check_output(
@@ -165,10 +179,12 @@ for i in range(NUM_START, NUM_START+TEST_CASES):
 
     if p.returncode == 0:
         print("success")
+
     else:
         print("failed")
         with open(TEST_DIR + "/" + "test" + str(i) + ".failed", "wb") as f:
             f.write(p.stdout)
+            f.close()
 
         print("wrote differences to {0}/{1}".format(TEST_DIR, "test"+str(i)+".failed"))
 
