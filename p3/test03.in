@@ -1,0 +1,19 @@
+n 6
+i 0;1;1.00
+i 0;2;2.00
+i 0;3;3.00
+i 0;4;4.00
+i 0;5;5.00
+degree 0
+degree 1
+degree 2
+degree 3
+degree 4
+degree 5
+mst 0
+mst 1
+mst 2
+mst 3
+mst 4
+mst 5
+exit

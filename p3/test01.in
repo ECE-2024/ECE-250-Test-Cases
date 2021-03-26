@@ -1,0 +1,28 @@
+n 4
+i 0;1;1.00
+i 1;2;2.00
+i 2;3;3.00
+i 3;0;4.00
+degree 0
+degree 1
+degree 2
+degree 3
+edge_count
+mst 0
+i 0;1;4.00
+i 1;2;3.00
+i 2;3;2.00
+i 3;0;1.00
+degree 0
+degree 1
+degree 2
+degree 3
+edge_count
+mst 0
+clear
+i 0;1;1.00
+i 1;2;2.00
+i 2;3;3.00
+i 3;0;4.00
+mst 0
+exit
