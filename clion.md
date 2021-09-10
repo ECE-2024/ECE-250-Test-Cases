@@ -23,6 +23,8 @@ After, click test connection and you should receive a success message. If not, p
 
 Now you should have a toolchain created and Clion has auto detected CMake on the eceUbuntu server.
 
+Next, you need to point the remote handler to the locations of the C compiler and Make. For the "C Compiler" field, enter `/usr/bin/gcc`, for the "Make" field, enter `/usr/bin/make`
+
 ![alt text](readme-images/T3.PNG)
 
 ## Remote Deployment Configuration
